@@ -1,0 +1,938 @@
+[
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Predavanja 5.6. - ONLINE Vježbe će se 4.6.2025. također održati u online obliku. Materijali za samostalan rad postavljeni su u blok za vježbe. Pronaći ćete prezentaciju o Jezicima ontologija. Također u pdf-u je dostupan i praktični primjer izrade ontologije u alatu Protege. U slučaju da imate pitanja, možete se javiti mailom. Lp Slobodan Beliga",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Linkovi na modele i biblioteke Dragi studenti, U završnom projektu za zadatak kojeg odaberete možete napraviti svoj model kojeg ćete naučiti na odabranom skupu podataka i pri tom isprobati različite parametre modela od broja slojeva, aktivacijskih funkcija, drop outa, augmentacije i funkcija gubitka, te parametara učenja ili podjele skupa za učenje i testiranje. Osim izrade svog modela možete koristiti i već gotove modele. Pri tom bi dobro bilo da usporedite kako gotovi modeli rade na vašem testnom skupu podataka, bez dodatnog učenja te nakon učenja (finog-podešavanja) na istom skupu na kojem ste učili i vlastiti model te kakvi su rezultati u odnosu na vaš model. Performanse svih modela usporedite na istom testnom skupu kako bi vaši zaključci bili relevantni. Možete za isti zadatak pitati i Chat da usporedimo i te rezultate. Linkovi na modele koji vam mogu biti korisni HTTPSWWW.TENSORFLOW.ORGTUTORIALSINDEX. 1HTML 1 HTTPSDOCS.PYTORCH.ORGTUTORIALS 2 2 HTTPS 2HUGGINGFACE.CO 2 2 HTTPSMODELZOO.CO 3 3 HTTPS 4PAPERSWITHCODE.COMTASK 4IMAGE-CLASSIFICATION 4 HTTPSPAPERSWITHCODE.COMTASK 5CLASSIFICATION 5 HTTPSWWW.DEEPLEARNINGBOOK.ORG 6 6 HTTPSCOURSE.FAST.AI Links 1 2 3 4 5 6",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Predavanja 5.6. - ONLINE Dragi studenti, Sutra će se predavanja održati online - dobit ćete materijale koje treba samsotalno proučiti, a ond aću naknadno snimiti i jedno popratno predavanje. LP Ana M.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: 2. kolokvij - bodovi i ispravak Dragi studenti, Objavljeni su rezultati postignuti na drugom kolokviju. Bodove možete vidjeti pod ocjenama. Kolokvij je nosio 20 bodova, kako bi prošli kolokvij trebali ste ostvariti 40, odnosno BAREM 8 BODOVA. Onima koji nisu postigli dovoljan broj bodova, a uspješno su riješili prvi kolokvij, mogu ispravljati sljedeći tjedan. UVID U KOLOKVIJ ODRŽATI ĆE SE U ČETVRTAK 5.6 U 13.30. ISPRAVAK - 10.6 U 14.00 Svakom studentu koji je na barem jednom kolokviju postigao više od 40 omogućeno je pisanje ispravka. Napominjem da na ispravku neće biti moguće koristiti genAI alate, niti skripte s nastave, moguće će biti samo koristiti službene dokumentacije do sad korištenih biblioteka.  Ako želite prisustvovati ispravku, a imate za to uvjete, molim da do četvrtka u 14h prijavite što želite (morate) ispravljati. Lp, Kristina Host",
+    "label": 1
+  },
+  {
+    "text": "Predali ste zadacu - 2. Kolokvij - predaja Predali ste zadacu - 2. Kolokvij - predaja Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: Projekti Podsjetnik da prezentirate projekte sljedeći tjedan u ponedjeljak 09.06. u 1400h, učiona 350 (i utorak ako ne stignu svi u ponedjeljak). Rok za upload projekta je produžen do subote navečer. Praga za projekt nema.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Poziv na EUROSTUDENT 9 istraživanje Prosljeđujemo poziv Dragi studenti, drage studentice, Između 15. i 31. svibnja 2025. svim je studentima i studenticama u Republici Hrvatskoj e-mailom poslan poziv na ispunjavanje EUROSTUDENT 9 ankete koja uključuje pitanja o Vašoj opterećenosti na studiju, troškovima studiranja, izvorima financiranja studija, smještaju, zdravlju, prehrani, iskustvima ili planovima za mobilnost te profesionalnim planovima. Naručitelj istraživanja je Ministarstvo znanosti, obrazovanja i mladih Republike Hrvatske koje nastoji unaprijediti studentski standard u Hrvatskoj (programi stipendija, studentski domovi, prehrana, subvencije prijevoza), a Vi ispunjavanjem ankete pridonosite ostvarenju tog cilja. Anketi možete pristupiti jedinstvenom šifrom koja Vam je dodijeljena u pozivnom e-mailu i putem koje samo Vi možete ući u anketu. U slučaju da niste primijetili poziv na istraživanje molimo Vas da provjerite je li slučajno kategoriziran kao ažuriranjaupdates, promocije ili među neželjenu poštu. Ispunjavanje ankete je dobrovoljno. Prikupljanje i obradu anketnih podataka za Ministarstvo znanosti, obrazovanja i mladih provodi Institut za društvena istraživanja u Zagrebu. Vaši odgovori bit će sigurno pohranjeni, anonimizirani prije analize i s njima će se postupati povjerljivo. Istraživački tim Vam stoji na raspolaganju za sva pitanja o EUROSTUDENT 9 anketi ili za rješavanje problema s pristupom anketi. Slobodno ih kontaktirajte putem e-maila eurostudent9idi.hr. Unaprijed Vam puno zahvaljujemo na sudjelovanju! Privitak OBAVIJEST.pdf",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Uniri se giba na moru Prosljeđujemo poziv (dodatni info za 1. godinu prijediplomskog Svi koji se priključe sportskoj aktivnosti dobiti će DVA DOLAZAKA IZ TZK-E.) OTVORENE SU PRIJAVE ZA KAJAK, SUP I VATERPOLO 3V3 -UNIRI SE PONOVNO GIBA NA MORU! Može biti slika sljedećeg 3 ljudi, ljudi plivaju i tekst asS 13 UnIrI SUBOTA, 7. LIPNJA 2025. KAJAK I VATERPOLO 3V3 3ISUP I SUP Kostrena, vaterpolo plaža SE GIBA UNIRI PRIJAVNICA 1 Nakon proljetnog gibanja u Kastavskoj šumi i traila Rječinom, pripremili smo za vas ljetno izdanje  pravo morsko osvježenje uz sport i zabavu!  Vidimo se 7. 6. u Kostreni, a na vama je samo da odaberete svoju aktivnost  SUP-anje  vožnja kajakom  vaterpolo 3v3 turnir Aktivnosti na vodi (kajak i SUP) odvijat će se u tri vođene ture po 1,5 sat, uz maksimalno 10 sudionika po aktivnosti u svakoj turi. Nije važno imate li prethodno iskustvo  svi su dobrodošli! Za početnike smo osigurali licencirane instruktore. Najuspješnije vaterpolo ekipe očekuju i nagrade! Sudjelovanje je besplatno za sve.  Uz sve to, čeka vas i super atmosfera u suradnji s Metropolis beach barom, i morem dobre energije! Prijavi se! 1 Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: The Geek Gathering Prosljeđujemo poziv za konferenciju koja bi vam mogla biti interesantna, a jeftina je participacija. Ukoliko se prijavite za sudjelovanje, javite nam se ako budu bili potrebni bodovi za veću ocjenu. Javljam Vam se u ime organizacijskog tima The Geek Gatheringa, jednog od vodećih IT događanja u regiji, koji će se održati 2. i 3. listopada 2025. u Osijeku. Ovim putem želimo pozvati Vas i Vaše studente da sudjelujete na konferenciji i iskoristite priliku za stjecanje novih znanja iz područja informacijskih tehnologija, umrežavanje sa stručnjacima iz industrije te širenje profesionalnih poznanstava. Za akademsku zajednicu osigurali smo POSEBNU CIJENU ULAZNICA OD 25 EURA, što predstavlja čak 87 POPUSTA u odnosu na redovnu cijenu od 200 eura. Konferencija uključuje više od 20 PREDAVANJA na aktualne teme kao što su  softverski inženjering  umjetna inteligencija  kibernetička sigurnost  UXUI dizajn  i brojni drugi aspekti IT industrije Predavanja su prilagođena različitim razinama znanja, uključujući i studente. ULAZNICA UKLJUČUJE  dvodnevni pristup svim predavanjima  ulaz na warm-up party  konferencijski goodie bag  ručak drugog dana konferencije  pristup chill zoni  sudjelovanje u svim popratnim događajima  pristup službenoj aplikaciji za networking Vjerujemo da je ovo izvrsna prilika za studente da se povežu s potencijalnim poslodavcima i steknu uvid u aktualne trendove i izazove u IT sektoru.",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Predaja predprodukcijskog obrasca Predali ste zadacu - Predaja predprodukcijskog obrasca Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Prezentacija plana produkcije Dragi studenti, sutra ćete prezentirati plan produkcije u kojem ste opisali modele koje ćete modelirati u sklopu završnog projektnog zadatka. Prezentacije će se održati online putem Microsoft Teamsa, na sljedećoj poveznici Prezentirat ćete prema redoslijedu 1 koji je objavljen u sekciji Projektni zadatak te vas molimo da se pridržavate dogovorenog termina. Ukoliko niste u mogućnosti ili vam nije zgodno prezentirati online, možete doći u ured 417 i prezentirati uživo. U tom slučaju molim da se prethodno najavite e-mailom na marina.zunicinf.uniri.hr. Želimo vam uspješnu pripremu i prezentaciju! Lijep pozdrav, Martina Holenko Dlab i Marina Žunić Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: Re: 26.05. i 02.06. industrijska radionica (qedcode) Današnja radionica se neće održati zbog spriječenosti predavača. Zbog toga prezentiranje 3D IGRI započinjemo u 1200H (umjesto 1530) u učioni 357 (obje grupe su danas). Ako ne stignemo riješiti sve do 1400h onda se selimo u učionu 350.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: Re: 26.05. i 02.06. industrijska radionica (qedcode) Podsjetnik da je sutra (02.06. u 1200h, učiona 357) radionica Amazon web servisi.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir suradnika za 2. projektni zadatak Tim David Josipović i Josip Čanađija Tema AI agent za pomoć pri korištenju Next.js-a",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir suradnika za 2. projektni zadatak Tim Luka Belušić i Damjan Kraljić Tema AI agent za informiranje o autima",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir suradnika za 2. projektni zadatak Tim Dino Ahmičić i Teo Salopek Tema Chatbot za savjetovanje korisnika o pravilnoj prehrani (makro i mikronutrijenti, uravnoteženi obroci, mitovi i činjenice o dijetama, itd.)",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir suradnika za 2. projektni zadatak Tim Filip Papić i Dorian Marasović FitGuide AI  osobni AI vodič za odabir vježbi",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir suradnika za 2. projektni zadatak Tim Svan Tipurić, Deni Koraca Tema AI agent za pomoć pri upisu na FIDIT",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir suradnika za 2. projektni zadatak Tim Monika Lakić i Eric Jakovac Tema AI agent za pomoć pri programiranju",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Prijava teme završnog rada Dragi studenti i studentice, Na Merlinu možete pronaći upute i primjere tema projektnih zadataka. Do 10.6 potrebno je PRIJAVITI TEMU za završni projekt u dostupnu tablicu. Završni možete raditi samostalno ili u paru, iznimno po troje uz prethodnu konzultaciju sa profesoricom. Također, ukoliko imate nesigurnosti vezano za temu, provjerite na sljedećim predavanjima sa profesoricom. Lp, Kristina Host",
+    "label": 1
+  },
+  {
+    "text": "Dejan Ljubobratović je poslao/la povratnu informaciju vezano uz zadacu Predaja praktičnog rada - vježbe Dejan Ljubobratović je poslaola povratnu informaciju vezano uz zadacu Predaja praktičnog rada - vježbe Mozete je pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir suradnika za 2. projektni zadatak Tim Benjamin Jakupović, Roko Peruško Tema uHelper - AI agent za pomoć u radu s Unity Engine-om",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir suradnika za 2. projektni zadatak Tim Franko Šojat i Leo Vukoje Tema AI agent za osnovnu edukaciju o ulaganju",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir suradnika za 2. projektni zadatak Tim Martina Marić Tema AI agent za informiranje studenata i nastavnika o Erasmus programu",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir suradnika za 2. projektni zadatak Tim Helena Alija, Milan Rastović Tema VaxiBot - AI agent za informiranje o cjepivima",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir suradnika za 2. projektni zadatak Tim Mihailo Benington i Daniel Duda Tema AI agent za informiranje o studentskim pravima i pravilima vezano uz studiranje.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir suradnika za 2. projektni zadatak Tim Matej Crnković i Damjan Đekić Tema AI Startup Advisor za Tech Poduzetnike",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: 2. projektni zadatak Drage studentice i studenti, U ovome tjednu nemamo vježbe uživo u učionici. Umjesto toga, radite na projektnom zadatku. Na Merlinu već sada možete pronaći upute za 2. projektni zadatak. Vaš zadatak u ovome tjednu je da odaberete suradnika (radi se u paru) te da imena suradnika zajedno s domenom chatbota koju ste odabrali upišete u forum ODABIR SURADNIKA ZA 2. PROJEKTNI ZADATAK, kako biste rezervirali svoju temu - najkasnije do kraja dana 29.5.2025. U Merlinu ćete u pdf dokumentu pronaći i upute za izradu projekta u dokumentu 2. PROJEKTNI ZADATAK - UPUTE. U slučaju da imate kakva pitanja u četvrtak (29.5.2025.) ću biti dostupan za konzultacije (u vrijeme vježbi) pa se možete prije toga javiti mailom. Ako nejasnoće ne uspijemo riješiti putem maila, po potrebi možemo dogovoriti i konzultacije putem videokonferencije u vrijeme kada inače imamo vježbe. ROK ZA PREDAJU RJEŠENJA 2. PROJEKNTOG ZADATKA 9.6.2025. USMENO IZLAGANJE 2. PROJEKTNOG ZADATKA 12.6.2025. Lp",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Odabir suradnika za 2. projektni zadatak U tekstu navedite imena i prezimena studenata koji zajedno u paru rade na projektnom zadatku. Također navedite i domenu agenta koju ste odabrali (npr. chatbot za informacije o fakultetu). OGRANIČENJA  U paru radi dvoje studenata. Dovoljno je da samo jedan student iz para upiše podatke ovdje kao odgovor na ovu poruku u forumu.  Jedna domena se može odabrati NAJVIŠE JEDNOM. Provjerite što su drugi odabrali prije vas, ako je neka domena već zauzeta tada odaberite neku drugu.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Re: Ljetna škola - umjesto završnog ispita Dragi studenti i studentice, dobili smo informaciju da je za ljetnu školu SSIP dostupno još 5 stipendija, stoga se i dalje možete javiti. Lp, Kristina Host",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Erasmus Natječaj Sveučilište u Rijeci 28. SVIBNJA 2025. raspisuje ERASMUS Natječaj za mobilnost studenata u svrhu studijskog boravka u ljetnom semestru 2025.2027. Detaljne informacije o Erasmus programu, tekstovi natječaja i prijavni obrasci objavljeni su na mrežnim stranicama Sveučilišta 1 Links 1 Privitak Natječaj ERASMUS studij ljetni 2025 2026.pdf",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Predaja poveznice e-portfolia Predali ste zadacu - Predaja poveznice e-portfolia Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Izrada i objava ePortfolia Dragi studenti, molila bih Vas da u sekciji vježbe pod Predaja poveznice e-portfolia 1 predate poveznicu na svoj e-portfolio najkasnije do 3. LIPNJA 2025. Prije predaje provjerite je li vaš e-portfolio objavljen, jer sam prilikom pregleda uočila da otprilike polovica studenata još uvijek nije objavila svoj e-portfolio te on nije dostupan za pregled. Također, ako ste određenom sadržaju ograničili pristup, molim vas da nastavnicama dozvolite pregled dodavajući naše mail adrese (marina.bajcicinf.uniri.hr i mholenkoinf.uniri.hr). Podsjećam da se redovitim rješavanjem zadataka i njihovom objavom u e-portfoliju može ostvariti DO 20 OCJENSKIH BODOVA, stoga iskoristite priliku i, ako je potrebno, ažurirajte sadržaj do zadanog roka. Lijep pozdrav, Marina Žunić Links 1",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Plan produkcije (Rok predaje: 3.6.2025.) Dragi studenti, sada kada ste razmislili o temama koje ćete obraditi u završnom projektnom zadatku, sljedeći je korak osmišljavanje plana produkcije. U tom planu trebate detaljno opisati modele koje namjeravate izraditi u sklopu svog projekta. Kako biste to učinili, pripremljen je gotovi obrazac 1 za izradu plana produkcije koji morate ispuniti. Također, kao pomoć, na raspolaganju vam je primjer 2 opisa proceduralnog modela mosta koji smo izrađivali u sklopu posljednjih vježbi. Taj primjer može vam poslužiti kao smjernica za detaljnost i format opisa. U istoj sekciji dostupne su vam upute 3 u kojima je raspisano što se od vas očekuje u okviru ovog praktičnog zadatka te koliko se pojedini dijelovi vrednuju. Molimo vas da pažljivo proučite upute kako biste ispunili sve potrebne zahtjeve. Svoj plan produkcije potrebno je dostaviti najkasnije do 3. LIPNJA 2025. Ukoliko imate pitanja ili trebate dodatna pojašnjenja, slobodno se javite putem e-maila. Lijep pozdrav, Marina Žunić Links 1 2 3",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Bodovi za kolokvij Pozdrav svima, upisani su bodovi za esejska pitanja pa sada imamo konačne rezultate za kolokvij. M. Holenko Dlab",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: 26.05. i 02.06. industrijska radionica (qedcode) Sljedeća dva ponedjeljka (26.05. i 02.06.) će održavati radionicu qedcode.io 1 u 1200h, učiona 357. 26.05. - Elasticseach 02.06. - Amazon web servisi INSTRUKCIJE ZA PRIPREMU LAPTOPA (ZA ELASTICSEARCH) Postavite Elasticsearch lokalno (možete sa docker-om) 2 Ukoliko vam radi nekog razloga to bude stvaralo probleme, postoji i online verzija sa besplatnim probnim periodom (Elasticsearch Cloud) 3 Links 1 2 3",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analiza senzorskih podataka: Online provjera, ponavljanje Dragi studenti, sutra, u petak, će biti dostupna zadnja online provjera (tipa ponavljanja sadržaja) u kojoj možete dobiti do 1.2 bodova. Sretno na provjeri!",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Stipendija Hrvatske narodne banke 2025. Prosljeđujemo info Hrvatska narodna banka radi potpore budućim, mladim stručnjacima u stjecanju praktičnih znanja i radnih iskustava raspisuje u 2025. godini Natječaj za dodjelu stipendija Hrvatske narodne banke. Natječaj je otvoren do 1. lipnja 2025. (uključujući i taj datum). Detalji natječaja nalaze se na webu 1 i na društvenim mrežama Hrvatske narodne banke. Links 1",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Pozvano predavanje 22.5. Pozdrav svima, Kako sam najavila zadnji put, sutra, 22.5. u 10.15 imamo pozvano predavanje kolege doc. dr. sc. Benedikta Peraka. Profesor Perak prezenitrat će konkretne primjere implementacije AI agenata u različitim domenama. Za dolazak na predavanje dobivate 2 boda u zalaganje. Ana M.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Upute za izradu projektnog zadatka Dragi studenti, dostupne su upute 1 za izradu samostalnog projektnog zadatka. Imate priliku odabrati jednu od dvije ponuđene opcije izradu 3D scene prema vizualnoj referenci ili izradu 3D modela za vlastitu igru koju razvijate u sklopu kolegija Razvoj 3D računalnih igara. Studenti koji pohađaju navedeni kolegij mogu kombinirati projektne zadatke s oba kolegija i raditi na modelima koji će biti korišteni u njihovoj igri. Svaka opcija je detaljno objašnjena u uputama, a svi radovi, bez obzira na odabranu opciju, vrednuju se prema istom setu kriterija koji su navedeni u uputama. Ako imate bilo kakvih dodatnih pitanja vezanih uz projektni zadatak, slobodno me kontaktirajte putem e-maila. Lijep pozdrav, Marina Links 1",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: HANFA - Natječaj za dodjelu stipendija studentima ekonomije, prava, matematike i informatičkih tehnologija Hrvatska agencija za nadzor financijskih usluga dodjeljuje stipendije u akademskoj godini 2025.2026. te poziva studente prijediplomskih, diplomskih i integriranih prijediplomskih i diplomskih studija EKONOMIJE, PRAVA, MATEMATIKE I INFORMATIČKIH TEHNOLOGIJA na prijavu putem popunjenog elektroničkog obrasca. Stipendije za odabrane stipendiste iznosit će 600,00 EUR neto mjesečno. Natječaj je dostupan na HANFA internetskoj stranici 1, a prijave se primaju putem elektroničke prijavnice 2 OD 12. DO 25. SVIBNJA 2025. GODINE. Links 1 2",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Poziv na 18. Job Fair - edukacija, umrežavanje i karijere Prosljeđujemo poziv PRIJAVE ZA 18. JOB FAIR SU OTVORENE! GLAVNA TEMA - FUTURIZAM I KONTROLA AI SADRŽAJA Drage kolegice i kolege, prijave na 18. izdanje Job Faira su otvorene! Osigurajte ulaz u Mozaik Event Centar 21. i 22. svibnja 2025. gdje će najtraženija poduzeća iz 13 različitih industrija predstaviti svoje projekte i karijerne prilike. Upoznajte njihove predstavnike u opuštenoj atmosferi na štandovima, zanimljivim talkovima, panel raspravi, debati, radionicama ili na Loosen Up Partyju na novoj lokaciji! Za sve željne dodatne dinamike, tu je i Hot Talk - neformalni intervju uz izazov s ljutim umacima. KAKO SE PRIJAVITI? Prijaviti se može putem mrežne stranice Job Faira. Nakon registracije je na proNlu vidljiv QR kod koji služi kao ulaznica za festival i sudjelovanje na sadržajima, ali i kao digitalna posjetnica. Na proNlu se može priložiti životopis kako bi poduzeća koja skeniraju QR kod studenta mogla kasnije i kontaktirati ih za ljetne prakse ili zapošljavanje nakon studija. GDJE SE NALAZI RASPORED? Detaljan raspored svih sadržaja dostupan je na službenoj stranici jobfair.fer.hrschedule 1. Na stranici se nalaze sve aktivnosti i jednostavno se rezervira svoje mjesto klikom na žuti gumb Prijavi se. Broj mjesta na svakom od sadržaja je ograničen! ZAŠTO SUDJELOVATI? Job Fair je idealna prilika za povezivanje s vodećim tehnološkim poduzećima, istraživanje mogućnosti zapošljavanja i učenja, ali i za stjecanje novih znanja i iskustava uz brojne zanimljive sadržaje. Ovo je važan korak za buduću karijeru! Za više informacija čitajte novosti na mrežnoj stranici. Pratite Job Fair na Facebook, Instagram i LinkedIn stranici. Također, pretplatom na YouTube kanal 2 može se pratiti Job Fair uživo, ali i vidjeti prošlogodišnja izdanja. Job Fair organiziraju FER, Savez studenata FER-a (SS FER) i Klub studenata elektrotehnike (KSET). Links 1 2",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Vježbe danas - odgođene Dragi studenti, nisam u mogućnosti danas održati vježbe zbog iznenadne spriječenosti. Na sljedećim vježbama ćemo nadoknaditi. Lp, Kristina Host",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: Predavanja APVO 20.5 Zbog zamjene termina ta industrijsku radionicu sutra 20.5. U 10 15 nema predavanja APVO. Lp",
+    "label": 1
+  },
+  {
+    "text": "Predali ste zadacu - Spark: Colab 4 upload (2 boda) Predali ste zadacu - Spark Colab 4 upload (2 boda) Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Spark: Colab 3 upload (2 boda) Predali ste zadacu - Spark Colab 3 upload (2 boda) Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: Re: 12.05. industrijska radionica: Kafka (CROZ) Ovog ponedjeljka (19.05. u 12H, učiona 357) će se održati KAFKA industrijska radionica (koju će održati CROZ). Ponesite si laptope (možete i po dvoje biti za jednim laptopom). Na merlinu (u sekciji Industrijske radionice) su kafkacourse materijali 1, u kojima je i txt datoteka sa instrukcijama za pripremu. Za neke primjere je potrebno imati IntelliJ i Javu 11. Za dolazak dobivate 5 BODOVA. Links 1",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Otvorene su prijave na drugi Hackultet CTF Prosljeđujemo poziv Otvorene su prijave za drugi Hackultet  CTF natjecanje za studente u organizaciji Hrvatske akademske i istraživačke mreže  CARNET i Fakulteta elektrotehnike i računarstva Sveučilišta u Zagrebu (FER). Na natjecanje se mogu prijaviti samo studenti, u timovima od pet članova, koji imaju valjani studentski status u Republici Hrvatskoj i upisani su u tekuću akademsku godinu što dokazuju e-Zapisom o statusu studenta 1. Natjecanje će se provoditi od petka, 23. svibnja 2025. u 20 sati do nedjelje, 25. svibnja 2025. u 20 sati, a pristupiti mu mogu samo članovi prijavljenih timova s dobivenim korisničkim podacima za pristup natjecanju. ZA SUDJELOVANJE U HACKULTETU POTREBNO JE DO 18. SVIBNJA 2025. (2359 H)  ispuniti prijavni obrazac 2za svoj tim (jedan član tima kao prijavitelj navodi sebe i ostale članove tima (ukupno pet osoba)  upoznati se s Pravilima natjecanja 3  popuniti sva polja obrasca za prijavu istinitim osobnim i kontakt podacima  prihvatiti Pravila postavljanjem kvačice na polje Potvrđujem da sam upoznata i suglasanna s pravilima ovog natjecanja  prihvatiti GDPR suglasnost u prijavnom obrascu IGRAČI NE MORAJU BITI STUDENTI ISTOG FAKULTETA. Ako zainteresirani studenti imaju poteškoća s pronalaskom suigrača, uputite ih da se pridružite našoj CTF Discord zajednici. 4 Links 1 2 3 4",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analiza senzorskih podataka: Izlaganja 16 5 Za danas, 16. svibnja nemamo prijavljenih izlaganja, tako da se izlaganja ne održavaju. Za konzultacije petkom bih molila da se najavite mailom. Lp",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Predstavljanje LogINTERN 2026 programa u Rijeci Prosljeđujemo poziv 21.05.2025., u 12 sati FAKULTET INFORMATIKE I DIGITALNIH TEHNOLOGIJA, PROSTORIJA S32 IT tvrtka LogIN te poziva na predstavljanje programa edukacije u području informatičkih tehnologija. ŠTO ĆEMO PREDSTAVITI? LogINTERN program za 2026. Iskustva LogINTERN polaznika KOME JE LOGINTERN NAMIJENJEN? Apsolventima preddiplomskog i diplomskog studija MATEMATIKE, INFORMATIKE I RAČUNARSTVA. Privitak LOGINTERN 2026 - pozivnica za studente.png",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Predavanja 15.5. - u 10:00 Dragi svi, Sutra će predavanje početi u 1000 umjeto u 1015 jer ja moram ranije završiti zbog nekih obveza. Vježbe počinju u uobičajenom terminu. LP Ana m.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Re: Poziv na sudjelovanje u istraživanju psihološke prilagodbe Drage studentice, dragi studenti, Zbog vrlo niskog odaziva podsjećamo vas i molimo da se uključite u ispitivanje psihološke prilagodbe studentica i studenata koje provode profesorice s Odsjeka za psihologiju Filozofskog fakulteta u Rijeci uz odobrenje Etičkog povjerenstva Fakulteta. Ovo je nastavak višegodišnjeg istraživanja, a dobiveni podaci koriste se za unapređivanje sustava podrške studenticama i studentima Sveučilišta u Rijeci. Sudjelovanje u istraživanju u potpunosti je dobrovoljno i anonimno, a odustati možete u bilo kojem trenutku. NADAMO SE DA ĆETE MOĆI ODVOJITI 10-AK MINUTA ZA ISPUNJAVANJE UPITNIKA. Upitniku možete pristupiti putem sljedeće poveznice Zahvaljujemo na vašem vremenu i doprinosu.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Internetsko nasilje: Pravni i društveni izazovi Prosljeđujemo poziv Ured za karijere Filozofskoga fakulteta u Rijeci vas poziva na predavanje INTERNETSKO NASILJE PRAVNI I DRUŠTVENI IZAZOVI. S obzirom na učestalost ovog oblika nasilja u svakodevnom životu, predavanje je namijenjeno svim zainteresiranim osobama te vas stoga ljubazno molimo da ovaj poziv proslijedite vašim kontaktima (studentima, nastavnicima, kolegama i drugima). Tijekom predavanja bit će obrađene sljedeće teme  Internetsko nasilje u svakodnevnom životu  Pravni i društveni aspekti internetskog nasilja  Prepoznavanje i zaštita od internetskog nasilja O PREDAVAČICI LORENA BASARA ZUPČIĆ diplomirala je na Pravnom fakultetu u Rijeci na temu Radno i socijalno pravo. Također je i sveučilišna specijalistica kriminalističkog istraživanja, tajnica u osnovnoj školi te predavačica. TERMIN I MJESTO PREDAVANJA Datum 22. SVIBNJA 2025. (četvrtak) Vrijeme OD 1330 DO 1430 SATI Lokacija FILOZOFSKI FAKULTET U RIJECI, F - 206, 2. KAT PRIJAVE NAJKASNIJE DO 20. 5. 2025. PUTEM HTTPSFORMS.GLEBXMKVSBWSO2CH8OY9 1 Links 1 Privitak Pozivnica.pdf",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: YUFE akademija u povodu Dana Europe Prosljeđujemo poziv U POVODU DANA EUROPE YUFE ALIJANSA DONOSI BOGAT PROGRAM YUFE AKADEMIJE! U SVIBNJU I LIPNJU OČEKUJE VAS NIZ PREDAVANJA, RADIONICA I DOGAĐAJA OTVORENIH ZA SVE ZAINTERESIRANE! PROGRAM obuhvaća teme poput dezinformacija, umjetne inteligencije, aktualnih trgovinskih previranja, višejezičnosti u istraživanju, kuhanja pa čak i memova. Nedavno smo mogli svjedočiti previranjima u trgovinskim politikama na globalnoj razini koja će imati utjecaj i na svakodnevni život, stoga u PETAK, 16. SVIBNJA U 12 SATI Sveučilište u Rijeci sudjeluje s online predavanjem HOW COULD THE COMMON TRADE POLICY JEOPARDIZE OR SAVE THE EUROPEAN UNION?  1koje će održati IZV. PROF. DR. SC. IGOR CVEČIĆ. Događajima na engleskom jeziku možete se pridružiti online, a osim predavanja i radionice moći ćete poslušati MEĐUNARODNI PANEL o povjerenju građana u pravosuđe u državama članicama EU-a CAN WE TRUST THE COURTS? 2 na kojem sudjeluje i PROF. DR. SC. IVANA KUNDA s Pravnog fakulteta te se pridružiti centralnom događaju YUFE akademije CRITICAL THINKING  A SET OF SKILLS NEEDED IN THE AGE OF MISCONCEPTIONS 3. PRIJAVE SU OBAVEZNE. DETALJE O CIJELOM PROGRAMU I MOGUĆNOSTI PRIJAVE ZA POJEDINE DOGAĐAJE MOŽETE NAĆI NA LINKU 4. Links 1 2 3 4 Privitak YUFEAcademy2025Programme.pdf",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Ljetna škola - online ili offline Dragi studenti, Obzirom da je naš Fakultet član AIDA konzorcija imate priliku sudjelovati na ljetnoj školi vezanoj za AI i ML. Više detalja u nastavku poruke. Postoji registracija ali možete tražiti stipendiju od organizatora ili preko Erasmus projekta plaćanje troškova. Aktivnim sudjelovanjem na ljetnoj školi možete zamijeniti rad na svom završnom projektu koji je planiran na kraju kolegija. Lp, M. Ivašić-Kos Detalji o ljetnoj školi CALL FOR PARTICIPATION AND SCHOLARSHIPS FOR THE AIDA SYMPOSIUM  SUMMER SCHOOL ON ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING CUTTING EDGE TRENDS  (AIDA AICET2025), 14-18TH JULY 2025, THESSALONIKI, GREECE Dear AI, CSCSE, or ECEEE student, scientist, engineer, professional, AI enthusiast, the International AI Doctoral Academy (AIDA 1) is excited to invite you to register and attend the upcoming hybrid (localremote) AIDA AICET2025  Symposium  Summer School on AIML Cutting Edge Trends 2 which will take place in and Aristotle University of Thessaloniki (AUTH), Greece, 14-18th July 2025.  SCHOLARSHIPS Three SCHOLARSHIPS will be awarded to selected AIDA AICET2025 registrants covering the registration fee, based on EXCELLENCE and a COMPETITIVE SELECTION PROCESS,  Visit the Scholarships Section 2 to apply. More scholarships are expected to be announced soon  stay tuned! AIDA AICET2025 TECHNICAL SPONSORSHIP IEEE (INSTITUTE OF ELECTRICAL AND ELECTRONIC ENGINEERS) SP SOCIETY. AIDA AICET2025 Symposium and School will feature  17 top-tier keynote and invited lectures,  31 excellent tutorialsshort coursesspecial sessions covering the latest advancements in AI AND MACHINE LEARNING, with distinguished speakers from leading universities in the USA and Europe (many having 50K and several having more than 100K citations). Its various tracks are suitable for students, scientists, engineers, professionals from any ECEEE or CSCSE discipline and for any AI enthusiast.  AIDA AICET2025 IS UNDER THE AUSPICES OF  The Ministry of Labor and Social Security  Aristotle University of Thessaloniki AIDA AICET2025 covers a wide range of topics related to a) AI core including Deep Learning and Generative AI, b) various AI applications, c) AI programming skill development, and c) social impact of AI and AI ethics.  BONUS A pre-symposium short course on Deep Learning by Prof. Ioannis Pitas (AUTH) on JULY 13, 2025 see details 3. DETAILS  DATES JULY 14-18, 2025  ON-SITE KEDEA Building 4, AUTH, Thessaloniki, Greece.  ONLINE Zoom links will be provided in due time.  CERTIFICATE OF ATTENDANCE will be provided upon request.  NETWORKING, GALA DINNER, and optional cultural excursions included  REGISTER NOW 2 More information ON THE VARIOUS LECTURES, TUTORIALSSHORT COURSES, REGISTRATION OPTIONS, BACKGROUND NEEDED AND GENERAL CONDITIONS can be found on the event webpage 2. Links 1 2 3 4",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: Span predavanje TOPLA PREPORUKA ZA DOLAZAK SVIM STUDENTIMA BIT ĆE GOVORA I O DRUGIM MODALITETIMA SURADNJE SA SPANOM, SECURITY AKADEMIJA , PRAKSA ITD. BUSINESS CLASS VAŽNOST EDUKACIJA U PODRUČJU KIBERNETIČKE SIGURNOSTI 24 Travanj 2025 DATUM ODRŽAVANJA 19. svibnja 2025. u 1200 sati u S32, PREDAVAČ Marinko Žagar, Span Centar Kibernetičke Sigurnosti NAZIV PREDAVANJA Važnost edukacija u području kibernetičke sigurnosti SAŽETAK PREDAVANJA Studentima će se obratiti Marinko Žagar iz Span Centra kibernetičke sigurnosti te odgovoriti na pitanje zašto su danas, više nego ikad, važne edukacije u području kibernetičke sigurnosti. Dodatno će govoriti o Span Centru kibernetičke sigurnosti, programu rada, interesu za ovakav tip edukacija i sl. Predavanje se organizira kroz suradnju na Digital4Security projektu. CV PREDAVAČA Mr.sc. Marinko Žagar radi u Span Centru kibernetičke sigurnosti od rujna 2023. godine i cilj mu je proširiti mogućnosti specijalističkih edukacije iz kibernetičke sigurnosti kroz formalne i neformalne oblike obrazovanja. Iza sebe ima brojne projekte iz prakse i veliko iskustvo u prijenosu znanja studentima na više visokoškolskih institucija u RH.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Kolokvij - najava Pozdrav svima, sljedeći tjedan je kolokvij iz teorije. Online test ćete rješavati na početku vježbi. Nakon toga ćete nastaviti s vježbama. Otvoren je dodatni pokušaj za sve samoprovjere kao priprema za kolokvij. Uz pitanja slična pitanjima u samoprovjerama, u kolokviju se mogu pojaviti i esejska pitanja. Uz pozdrav, M. Holenko Dlab",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: 10. Human Rights Slam - Predavanja i okrugli stol u organizaciji Svjetskog saveza mladih Prosljeđujemo poziv U organizaciji Svjetskog saveza mladih Hrvatska, 16. i 17. svibnja u Zagrebu će se održati HUMAN RIGHTS SLAM koji se tradicionalno održava već desetu godinu za redom. Riječ je o dvodnevnom javnom događaju posvećenom promišljanju o raznim temama vezanim uz LJUDSKO DOSTOJANSTVO I LJUDSKA PRAVA. Ovogodišnji Human Rights Slam posvećen je pitanju prava na život, jednoj od najosjetljivijih i najaktualnijih društvenih tema današnjice. Događaj se sastoji od dva predavanja i okruglog stola, a poseban je naglasak stavljen na uključivanje mladih i poticanje dijaloga. Program započinje u PETAK, 16. SVIBNJA, od 17 do 1930 sati predavanjima dvojice gostujućih predavača. Dan kasnije, U SUBOTU 17. SVIBNJA, od 10 do 12 sati održat će se okrugli stol koji će nastojati pokrenuti raspravu između predavača i sudionika. Oba dijela događaja se odvijaju na adresi VODNIKOVA 5 U ZAGREBU. Tema događanja je interdisciplinarna i obuhvaća znanstvene, filozofske, etičke i pravne aspekte pitanja početka života, kao i ontološkog statusa embrija. U središtu promišljanja nalazi se pitanje što znači pravo na život i kako ga tumačimo u suvremenom društvu? Događaj je osmišljen kao prostor za iznošenje činjenica i argumenata o ovoj bitnoj temi. U petak, 16. svibnja, uvodno predavanje održat će LUKA TRIPALO, univ. mag. pharm. koji će se osvrnuti na znanstveni pogled na početak ljudskog života. Osim toga, osobito će se usmjeriti na pitanje priziva savjesti, s posebnim naglaskom na ulogu osobne etike i profesionalne odgovornosti u kontekstu farmacije te će iznijeti vlastita iskustva i promišljanja iz ovog područja. Dr. sc. DAN ĐAKOVIĆ će u svom izlaganju otvoriti širi filozofski i pravni okvir, govoreći o povijesnom razvoju pojma ljudskih prava i prava na život. Govorit će i o važnosti dosljednog vrednovanja ljudskih prava, u kojoj mjeri i na koji način se ljudska prava vrednuju u praksi te što to znači u kontekstu suvremenog društva. Poseban značaj cijelom događaju daje OKRUGLI STOL u subotu 17. 5. u 10 sati, a koji će biti prilika za razgovor među mladima i govornicima. Kroz moderiranu, ali neformalnu raspravu, sudionici će moći postavljati pitanja, iznositi osobna iskustva i promišljanja. Govornici na okruglom stolu bit će KREŠIMIR MILETIĆ, univ. spec. act. soc, MISLAV BARIŠIĆ, mag. phil. i LUKA TRIPALO, univ. mag. pharm. Cilj ovog dvodnevnog susreta je pružanje kvalitetnih informacija, otvaranje prostora za kritičko promišljanje i osnaživanje mladih za argumentiranu raspravu. Organizatori vjeruju da samo kroz dijalog, znanje i međusobno poštovanje možemo graditi društvo koje istinski cijeni ljudska prava  uključujući i ono najosnovnije, pravo na život. Organizatori posebno pozivaju studente i mlade profesionalce da se priključe i aktivno sudjeluju u ovom jedinstvenom edukativnom događaju. PRIJAVE TRAJU do 16. 5., a prijaviti se može putem obrasca 1 Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Re: Predavanje Gorana Paulina Pozdrav svima, u blok s materijalima za predavanja sam dodala prezentaciju s današnjeg predavanja Gorana Paulina. Predavanje je bilo vrlo informativno, s mnogo primjera iz prakse. Žao mi je što ga je poslušalo samo dvoje studenata. Na uvodnom predavanju bilo jasno naglašeno kako se očekuje da prisustvujete gostujućim predavanjima. Iako ovakvih prilika više neće biti u okviru ovog kolegija, nadam se da ćete ubuduće ozbiljnije pristupiti sličnim situacijama. Uz pozdrav, M. Holenko Dlab",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Predavanje 12.5. - online asinkrono Dragi studenti, U ponedjeljak 12.05. sam na putu tako da predavanje neće biti održano uživo, već online asinkrono. Podijelila sam vam materijale, pa molim da ih pogledate i ako imate pitanja ili vam trebaju neka pojašnjenja da ih pripremite za slijedeći puta kada se vidimo uživo. Preporuka je da testirate demo NN aplikaciju koju sam vam isto podijelila jer vjerujem da će vam puno toga biti jasnije vezano za strukturu i funkcioniranje NN. Lijep pozdrav, M. Ivašić-Kos",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: Re: 12.05. industrijska radionica: Kafka (CROZ) Zbog spriječenosti predavača se sutrašnja radionica neće održati. Vježbe sutra nemate, a predavanja su u normalnom terminu u utorak. Bodove ćemo vam na kraju normirati tako da je sveukupni zbroj opet 100.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Poziv na sudjelovanje u istraživanju psihološke prilagodbe Prosljeđujemo poziv Drage studentice, dragi studenti, Pozivamo vas da se uključite u ispitivanje psihološke prilagodbe studentica i studenata koje provode profesorice s Odsjeka za psihologiju Filozofskog fakulteta u Rijeci uz odobrenje Etičkog povjerenstva Fakulteta. Ovo je nastavak višegodišnjeg istraživanja, a dobiveni podaci koriste se za unapređivanje sustava podrške studenticama i studentima Sveučilišta u Rijeci. Sudjelovanje u istraživanju u potpunosti je dobrovoljno i anonimno, a odustati možete u bilo kojem trenutku. Nadamo se da ćete moći odvojiti 10-ak minuta za ispunjavanje upitnika. Upitniku možete pristupiti putem sljedeće poveznice 1 Zahvaljujemo na vašem vremenu i doprinosu. Voditeljica istraživačkog tima prof. dr. sc. Sanja Smojver-Ažić sanja.smojver.azicffri.uniri.hr Links 1",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Predaja 1. projektnog zadatka Predali ste zadacu - Predaja 1. projektnog zadatka Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: [1. godina prijediplomskog] Tjelesni - Pješačka tura Prosljeđujemo info Poštovani studenti, Dana 10.05. 2025. održati će se pješačka tura od stadiona Kantrida do Opatije. Okupljanje je u 9 00 sati iznad stadiona Kantrida. Molim Vas da sa sobom uzmete dosta tekućine i višeslojno se odjenite. Pješačka tura traje cca 2 - 3 sata i priznaje se kao 5 dolazaka na nastavu TZK-e. Ujedno Vas obavještavam da nastave TZK-e neće biti u periodu od 13.05 - 25.05. 2025. jer sam na putu. Od 26.05. 2025. godine nastava ide dalje po rasporedu. lp Sergio de Privitellio",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Studenac - natječaj Prosljeđujemo poziv Javljamo se u ime Studenca, jednog od vodećih maloprodajnih lanaca u Hrvatskoj. Studenac kontinuirano ulaže u digitalizaciju i inovacije, što je vidljivo i kroz snažnu stratešku pozicioniranost odjela unutar tvrtke. TIM STUDENAC DIGITAL djeluje pod direktnim vodstvom Uprave, a okuplja vrhunske stručnjake koji upravljaju projektima usmjerenim na unapređenje korisničkog iskustva i razvoj novih tehnoloških rješenja. U sektoru maloprodaje, gdje se promjene odvijaju iznimno brzo, upravo agilnost i sposobnost brze prilagodbe kroz inovativna rješenja osnova su poslovnog rasta. Prepoznajući važnost digitalne izvrsnosti, ali i potrebu za raznolikošću i novim talentima u IT industriji, Studenac je pokrenuo PROJEKT KODIRA. Radi se o projektu koji ulazi u treću godinu provedbe u sklopu njegovog programa STUDENTICE FAKULTETA U STEM PODRUČJU KROZ NATJEČAJ RJEŠAVAJU STRUČNI ZADATAK, a najbolja među njima OSVAJA MENTORSTVO U TIMU STUDENAC DIGITAL. Ova inicijativa talentiranim studenticama pruža priliku da pokažu svoje vještine, steknu priznanje i važno praktično iskustvo. KROZ MENTORSKI PROGRAM SUDIONICE IMAJU PRILIKU UČITI I RAZVIJATI SE U DINAMIČNOM I INOVATIVNOM OKRUŽENJU i pripremati se za tržište rada. Cilj projekta je rušiti prepreke u pristupu tehnološkim karijerama te otvoriti prostor budućim lidericama u digitalnim inovacijama. Posebno smo ponosni što je prošlogodišnja pobjednica nakon mentorstva nastavila svoju karijeru upravo u Studenac Digital timu. PRIJAVE ĆE SE PRIKUPLJATI DO 26. SVIBNJA 2025., a pet najboljih idejnih rješenja odabrat će Studenac d.o.o. u suradnji s Bug magazinom. Finalistice će predstaviti svoje projekte u unaprijed dogovorenoj partnerskoj instituciji u drugoj polovici svibnja, a U LIPNJU ĆE NAJBOLJA KANDIDATKINJA BITI SLUŽBENO PROGLAŠENA NA .DEBUG KONFERENCIJI gdje će na glavnoj pozornici najveće regionalne developerske konferencije i predstaviti svoje pobjedničko rješenje. Uz to, bit će nagrađena DODATNOM ULAZNICOM ZA KONFERENCIJU TE MENTORSTVOM U TIMU STUDENAC DIGITAL U TRAJANJU OD ŠEST TJEDANA. Sve INFORMACIJE I DETALJI, kao i obrazac za prijavu dostupni su na web stranici projekta 1 Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Predavanje Gorana Paulina Pozdrav svima, drugo gostujuće predavanje odražt će se u ponedjeljak 12.5. s poetkom u 830 sati. Održat će ga Goran Paulin iz Kreativnog odjela i prikazati praktične primjere proceduralnog modeliranja te mogućnosti alata Houdini za proceduralno modeliranje. Kao uvod u predavanje, u bloku Predavanja, objavljena je skripta na temu proceduralnog modeliranja i pripadna samoprovjera. Uz pozdrav, M. Holenko Dlab",
+    "label": 1
+  },
+  {
+    "text": "Predali ste zadacu - Predaja 1. projektnog zadatka Predali ste zadacu - Predaja 1. projektnog zadatka Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analiza senzorskih podataka: KVIZ Dragi studenti, 13. svibnja će se prema DINP-u održati kviz u terminu vježbi u učionici 350 s početkom u 8.15. sati u jednoj grupi. Nakon kviza, će u sklopu vježbi biti izlaganje projekata prema zadanom rasporedu. Kviz se sastoji od 15 pitanja. Vrijeme pisanja je 30 minuta. Svako pitanje se boduje sa jednim bodom. Kviz obuhvaća teme Grafika vremenskih serija, Dekompozicija vremenskih serija, Alati za predviđanje, Stacionarnost vremenske serije, Autoregresivni modeli, Model pomičnog prosjeka. Tijekom svibnja će biti dostupna zadnja online provjera koja će biti bodovana sa najviše 1 bodom. Sretno na kvizu!",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Vježbe 6.5.2025. Dragi studenti, kao što je prethodno najavljeno na vježbama, sutrašnje vježbe neće se održati zbog organizacije i održavanja Otvorenog dana 2025. Lijep pozdrav, Marina Žunić",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Nastava 8.5.2025. Drage studentice i studenti, 8.5.2025. ćemo imati nastavu s početkom u 1000 sati. Imat ćemo prezentcije vaših projektnih zadataka. Pripremite svoja kratka izlaganja u trajanju od 5 minuta. Prezentacije ćemo imati sve do 1130 sati. Nakon toga, ostatak nastave nećemo imati u 12h kao što to obično imamo jer će se u 12 sati održavati obrana doktorskog rada na FIDIT-u. Mentorica kandidata koji brani doktorat je prof. Meštrović, a tema doktorata je iz područja koje pokriva i naš kolegij Prikaz znanja i rezoniranje o znanju. Zbog toga ste pozvni da prisustvujete obrani i vidite kako izgledaju doktorski radovi iz informatike. Možda netko od vas odluči upisati i doktorat nakon diplomskog studija. Obrana doktorata će biti u 12 sati u prostoriji O-028. Naslov doktorata OTKRIVANJE PLAGIRANJA PRI PARAFRAZIRANJU KORIŠTENJEM MODELA DUBOKOG UČENJA Sve druge detalje možete pronaći ovdje 1. Lp do četvrtka! Links 1",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: 12.05. industrijska radionica: Kafka (CROZ) Sljedeći tjedan (12.05. u 12H, učiona 357) je KAFKA industrijska radionica (koju će održati CROZ). Ponesite si laptope (možete i po dvoje biti za jednim laptopom). Na merlinu (u sekciji Industrijske radionice) su kafkacourse materijali, u kojima je i txt datoteka sa instrukcijama za pripremu. Za neke primjere je potrebno imati IntelliJ i Javu 11. Za dolazak dobivate 5 BODOVA.",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Spark: Colab 2 upload (1 bod) Predali ste zadacu - Spark Colab 2 upload (1 bod) Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Spark: Colab 1 upload (1 bod) Predali ste zadacu - Spark Colab 1 upload (1 bod) Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Gostujuće predavanje - podsjetnik Pozdrav svima, podsjećam da ćemo sutra imati gostujuće predavanje prof. Svena Maričića i to s početkom u 900 u S-32. Kako je ovo jedno od svega nekoliko predaanja u učionici, očekujem Vaš dolazak. Više o predavanju i predavaču u službenoj obavijesti 1. M. Holenko Dlab Links 1",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: 2. kolokvij iz teorije - bodovi Pozdrav svima, Bodovi su upisani. Ako imate pitanja, javite se mailom. Ana M.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Re: 1. kolokvij - rezultati Upisani su bodovi ostvareni na nadoknadi.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Analiza senzorskih podataka: Predavanje u petak, 2. svbjnja Dragi studenti, predavanje u petak 2. svbnja održat će se online. Materijal će biti dostupan uskoro. Planirana izlaganja odgađaju se za 9. svibnja (ako vam termin ne odgovara javite se za dogovor mailom). Dakle 9. svibnja seminar izlažu timovi Cukrov i Kraljić, Belušić i Buljević, Jakupović i Đekić Lijep pozdrav",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: [1. godina prijediplomskog] Termini sistematskih pregleda, svibanj 2025. U privitku dostavljamo termine sistematskih pregleda za PREOSTALE redovne studente 1.godine Vašeg studija. Nužno je da su studenti po dolasku na sistematski pregled zdravi, da sa sobom ponesu cjepnu iskaznicu (zbog uvida u cjepni status), zdravstvenu iskaznicu te ostalu medicinsku dokumentaciju (ako imaju kakva kronična oboljenja ili se negdje redovito kontroliraju). Također, studenti koji su već prije studirali neki drugi Fakultet ili smjer te su na 1. godini već obavili sistematski pregled (a nisu na popisu već evidentirani da su obavili sistematski pregled), nisu ponovno obvezni obaviti sistematski pregled, već se samo trebaju javiti na mail skolska.kampuszzjzpgz.hr kako bi ih se moglo evidentirati u sustavu. DODATNA NAPOMENA Zbog pojačane opterećenosti ambulante (rad na više lokaliteta), nadoknade se neće organizirati, no iz tog razloga je STUDENTIMA DOZVOLJENO DA SE MEĐUSOBNO ZAMJENE ZA TERMIN UKOLIKO SU IZ OPRAVDANOG RAZLOGA (NPR. ISPIT, KOLOKVIJ) SPRIJEČENI DOĆI NA SISTEMATSKI PREGLED U DODIJELJENOM IM TERMINU (jedino je nužno da ukupni broj studenata po danu ne prelazi predviđeni broj studenata za taj dan). Također, vrijeme navedeno na popisu termina se odnosi na vrijeme dolaska na sistematski pregled, a ne na trajanje samog sistematskog pregleda. Privitak FIDIT termini sistematskih...pdf",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Span Arena 2025 Prosljeđujemo info OD 19. DO 21. SVIBNJA ove godine održava drugo, prošireno izdanje konferencije na temu kibernetičke sigurnosti  SPAN CYBER SECURITY ARENA. Trodnevno izdanje konferencije na kojem očekujemo više od 400 sudionika ugostit će HOTEL AMBASADOR U OPATIJI. Kroz bogat program nastupit će VIŠE OD 40 DOMAĆIH I MEĐUNARODNIH PREDAVAČA  stručnjaka za kibernetičku sigurnost u compliance i tech domeni. Očekuju vas brojna predavanja, paneli i radionice, a najveće ime programa je IRA WINKLER, certificirani stručnjak za sigurnost informacijskih sustava (CISSP) i CISO kompanije CYE Security. POSEBNA CIJENA ZA STUDENTE Redovna cijena pojedinačne kotizacije iznosi 650   PDV, a za studente smo osigurali POSEBNU CIJENU OD 50  PO SUDIONIKU (vrijedi do 10.5.) Kotizacija uključuje pristup svim programskim sadržajima tijekom sva tri dana, warm-up druženje i party, ručkove kao i brojna osvježenja te kod za popust na smještaj u raspoloživim Liburnia hotelima. Sve detalje i program možete pronaći na službenoj WEB STRANICI konferencije www.spanarena.eu 1 Promotivni kod koji je potrebno unijeti u polje PROMOTIVNI KOD prilikom kupnje kotizacija je SA2025STU67STUDENTSKA Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: TEMA: Tehnologije 3D ispisa Pozdrav svima, kao priprema za gostujuće predavanje koje je na rasporedu 5.5., dostupni su materijali za temu 3D ispis. M. Holenko Dlab",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Poziv na gostujuće predavanje - Škara Pozdrav svima, U ponedjeljak 28.4. će u okviru kolegija Razvoj 3D igara gostujuće predavanje održati Ivan Škara, developer iz hrvatske gaming firme Gamepires 1 koja je razvila poznatu igru SCUM. Tema će biti vezana uz materijale i shadere (relevantan alat je Substance). Nažalost, kolega Pobar nije poslao duži sažetak no ako Vam se predavanje čini zanimljivo, slobodno ga posjetite. Predavanje je u 12 sati u S32. Uz pozdrav, M. Holenko Dlab Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: 1. kolokvij - rezultati Dragi studenti, Objavljeni su rezultati postignuti na prvom kolokviju. Bodove možete vidjeti pod ocjenama. Kolokvij je nosio 20 bodova, kako bi prošli kolokvij trebali ste ostvariti 40, odnosno BAREM 8 BODOVA. Onima koji nisu postigli dovoljan broj bodova, ako uspješno riješe drugi kolokvij, omogućit će se ispravak u zadnjem tjednu nastave. UVID U KOLOKVIJ ODRŽATI ĆE SE U UTORAK 29.04 NAKON VJEŽBI. Lp, Kristina Host",
+    "label": 1
+  },
+  {
+    "text": "Kristina Host je poslao/la povratnu informaciju vezano uz zadacu 1. Kolokvij - predaja Kristina Host je poslaola povratnu informaciju vezano uz zadacu 1. Kolokvij - predaja Mozete je pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: 1. projektni zadatak Na zamolbu studenata, rok za predaju rješenja 1. projektnog zadatka je produljen do 6. svibnja 2025., 2359.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Predavanje 28.04. - online asinkrono Dragi studenti, U ponedjeljak 28.04. sam na putu tako da predavanje neće biti održano uživo, već online asinkrono. Podijelila sam vam materijale, pa molim da ih pogledate i ako imate pitanja ili vam trebaju neka pojašnjenja da ih pripremite za slijedeći puta kada se vidimo uživo. Lijep pozdrav, M. Ivašić-Kos",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Botpress",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Alat DialogFlow nije više dostupan.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Članovi Teo Salopek, Dino Ahmičić Alat DialogFlow Tema InvestBot  Chatbot za savjetovanje i podršku pri investiranju",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: 2. kolokvij iz teorije Kolokvij iz teorije će se održati sutra, 24.4.2025. u prostoriji O-366 s početkom u 11 sati.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Volonteri za Otvoreni dan FIDIT-a Drage studentice i studenti, FIDIT traži nekoliko volontera među studentima za pomoć pri provedbi OTVORENOG DANA FAKULTETA INFORMATIKE I DIGITALNIH TEHNOLOGIJA te natjecanja za srednje škole TETRAGON. Događaji će se održati, kao i svake godine, u prostorima FIDIT-a, u utorak, 6. svibnja 2025. godine. Volonteri bi trebali provesti na fakultetu oko 3 do 4 sata (od čega bi kratko pomagali, a veći dio vremena bili bi slobodni dok učenici pišu testove). Njihov glavni zadatak bio bi pomoći asistentima, a posebno učenicima srednjih škola koji dolaze na natjecanje, tako da ih usmjere kroz zgradu do odgovarajućih učionica. Naša zgrada može biti zbunjujuća za posjetitelje koji trebaju doći s jednog kraja na drugi, a učenici koji je ne poznaju imat će malo vremena da stignu na vrijeme i riješe testoveu o dređenoj prostoriji u našoj zgradi. Molimo vas za pomoć i pozivamo sve zainteresirane da se jave najkasnije do utorka, 29. travnja 2025. do 10 sati na mail seligainf.uniri.hr. Svi volonteri dobit će potvrdu, odnosno upis u volontersku knjižicu, što se bilježi i u vaš Dodatak diplomi nakon završetka preddiplomskog studija. Veselimo se vašem javljanju! Lijep pozdrav, Promo tim FIDIT-a!",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Članovi tima Josip Čanađija i David Josipović Alat Wit.ai Tema Chatbot za preporuku igara",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Kolokvij Dragi studenti i studentice, Kolokvij će se pisati u 2 grupe kako je najavljeno na vježbama, podjela se nalazi u prilogu. Odmah nakon predavanja koja su u 10 dođite na ispit. Kolokvij obuhvaća pitanja iz predavanja  PERT zadatak. Ispit pišete na računalu u trajanju od 25min. Ako vam treba donesite si papir za rješavanja zadatka. Lp, Kristina Host",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Nadoknada kolokvija Studenti koji su opravdano izostali (opravdano liječničkom ispričnicom) nadoknadu pišu sljedeći tjedan u utorak 29.04. u 1015 u učionici O-O-366. Ostalima se broji kao da su ostvarili 0 bodova. Vaš izostanak sa predavanja Analitika podataka velikog obujma je najavljen profesorici Vježbe taj dan se normalno održavaju. Lp, Kristina",
+    "label": 1
+  },
+  {
+    "text": "Predali ste zadacu - 1. Kolokvij - predaja Predali ste zadacu - 1. Kolokvij - predaja Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Članovi Monika Lakić i Eric Jakovac Alat Botpress Tema Chatbot za planiranje putovanja",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: Analiza sentimenta (NLP) Na merlinu imate materijale za analizu sentimenta (u tekstu). Probajte dovršiti implementaciju koja istrenira model za klasifikaciju sentimenta na datasetu Amazon reviews. Implementacija treba vektorizirati tekstove koristeći vektorske reprezentacije riječi (eng. embeddings), te istrenirati Naive Bayes model. Možemo sljedeći puta zajedno proći kroz implementaciju, ako bude nejasnoća.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Članovi Roko Perusko, Rebeka Filipović Alat Watson IBM Tema Chatbot za preporuku filmova i serija",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Članovi Filip Papić, Dorian Marasović Alat Watson IBM Tema HoopsGuru - chatbot za statistike NBA igrača i timova",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Najava 2. kolokvija iz teorije Pozdrav svima, Idući tjedan piše se 2. kolokvij iz teorije. Sadržaj kolokvija obuhvaća gradivo prezentacija P4 i P5, te dvije skrpite Foundational Large Language Models  Text Generation - samo dio koji je trebalo samostalno proučiti prošli tjedan Embeddings and Vector Stores - sve što smo jučer radili na predavanju, stranice 1. - 33. Ana M.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Bodovi iz 1. teorijskog kolovija Pozdrav svima, Bodovi iz 1. teorijskog kolokvija su uneseni. Ako imate pitanja, slobodno se jaivte mailom. Ana M.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Članovi Mihailo Benington i Daniel Duda Alat Watson IBM Tema Bonbonko - Chatbot za pomoć sa računima i ptodajom mobilnih tarifa",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Članovi Svan Tipurić, Deni Koraca Alat DialogFlow CX Tema Chatbot za pripremu za intervju",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Članovi Martina Marić, Leo Vukoje Alat Dialogflow CX Tema Chatbot za pomoć studentima pri upisu i organizaciji studija",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Članovi Helena Alija, Milan Rastović Alat DialogFlow ES Tema RentSmartBot - Chatbot za traženje studenstkog smještaja i cimera",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Članovi tima Benjamin Jakupović, Franko Šojat Alat DialogFlow CX Tema TakeOut - bot za narudžbu različitih vrsta fast-food hrane",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Članovi tima Matej Crnković i Damjan Đekić Alat DialogFlow ES Tema ZagrebTourBot - turistički informativni chatbot za posjetitelje Zagreba",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: Odabir teme za 1. projektni zadatak Članovi Luka Belušić, Damjan Kraljić Alat DialogFlow ES Tema -",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Odabir teme za 1. projektni zadatak U tekstu navedite imena i prezimena studenata koji zajedno u paru rade na projektnom zadatku. Također navedite i naziv alata kojeg ste odabrali te namjenudomenu agenta (npr. chatbot za informacije o fakultetu). OGRANIČENJA  U paru radi dvoje studenata. Dovoljno je da samo jedan student iz para upiše podatke ovdje kao odgovor na ovu poruku u forumu.  Jedan alat se može odabrati NAJVIŠE 3 PUTA. Provjerite što su drugi odabrali prije vas, ako je neki alat već odabran 3 puta tada ga se više ne može birati i potrebno je odabrati neki drugi alat.  Parovi koji su odabrali isti alat, ne mogu imati istu namjenudomenu agenta. Npr. ako je dva puta odabrana platforma Watson IBM, ne može i dva puta biti odabran isti chatbot npr. za informacije na fakultetu, već namjene moraju biti različite.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Re: Let'sGrow! 2025 (tehnološka konferencija) Nastavno na poziv za sudjelovanje na konferenciji LetsGrow 2025, u nastavku vam dostavljamo informacije o STUDENTSKOM STARTUP NATJECANJU koje organiziraju u sklopu programa na konferenciji 05.05.2025. u Hotelu Park Plaza Histria, u Puli.  Najbolja startup ideja   !   Imate startup ideju? Možda ste je razradili kroz diplomski rad, napisali koncept s prijateljima, ili ste je već negdje predstavili?  Pošaljite je na natjecanje startup ideja u sklopu ovogodišnje konferencije LetsGrow u Puli!     Nagrade  1. mjesto 500  Powered by   2. mjesto 300  Powered by   3. mjesto 150    Fil Rouge Capital - FRC 1 osigurava mentorsku podršku, i zadržava pravo pozivanja pojedinih ideja u svoj jesenski akceleracijski program.    Rok za prijave ...  Objava finalista i poziv na konferenciju LetsGrow ...  Finale na pozornici na konferenciji LetsGrow ...     ! Popunite formu 2 Links 1 2",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Predavanje prof. Svena Maričića Pozdrav svima, obaviještavam Vas da će se predavanje prof. Svena Maričića održati 5.5.2025., a ne 28.4. kako je bilo planirano. M. Holenko Dlab",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Erasmus natječaji za mobilnosti u 2025./2027. Prosljeđujemo info Sveučilište u Rijeci 23. TRAVNJA 2025. raspisuje sljedeće ERASMUS NATJEČAJE ZA MOBILNOSTI U 2025.2027.  Natječaj za mobilnost studenata u svrhu stručne prakse u programskim zemljama  Natječaj za mobilnost studenata u svrhu stručne prakse u svim trećim zemljama svijeta  Natječaj za mobilnost studenata u svrhu pohađanja Kombiniranih intenzivnih programa (Blended Intensive Programs  BIP) u programskim zemljama  Natječaj za mobilnost osoblja u programskim zemljama  Natječaj za mobilnost osoblja u svim trećim zemljama svijeta (Napomena  rok za prijavu je 4.6.2025., a mobilnosti su moguće od 1.9.2025.!) Detaljne informacije o Erasmus programu, tekstovi natječaja i prijavni obrasci objavljeni su na mrežnim stranicama Sveučilišta 1 2 Links 1 2 Privitak Obavijest o otvorenim Erasmus natjecajima u 2025.pdf",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: Predavanja 22.4. u 10 30 Drtagi studenti u utorak 22.4. iznimno krećemo u 10 30 s predavanjem u 357 zbog održavanja izbora za Rektora koji se na cijelom UNIRI održavaju u 10. LP",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Poziv na predavanje ''Ugovor o radu – moja prava i obveze'' Prosljeđujemo poziv Drage studentice i dragi studenti, jeste li se ikada zapitali koja su vaša prava i obveze kada sklopite ugovor o radu? Kako funkcionira pripravništvo? Koliko godišnjeg odmora vam pripada? Na predavanju UGOVOR O RADU  MOJA PRAVA I OBVEZE upoznat ćemo se s temeljnim pravilima radnog prava koja su ključna za svakog radnika i poslodavca. Naučit ćete kako zaštititi svoja prava i izbjeći česte pravne zamke u poslovnom svijetu. Proći ćemo teme s kojima ćete se susresti nakon zasnivanja radnog odnosa  UVOD U RADNO PRAVO osnovni pojmovi, izvori radnog prava, temeljna načela.  RADNI ODNOS I UGOVOR O RADU vrste ugovora, obvezni elementi, probni rad.  PRAVA I OBVEZE RADNIKA I POSLODAVCA plaća, radno vrijeme, zaštita dostojanstva radnika.  RADNO VRIJEME, ODMORI I DOPUSTI redovito i prekovremeno radno vrijeme, godišnji odmor, plaćeni i neplaćeni dopusti.  PRIPRAVNIŠTVO I STRUČNO OSPOSOBLJAVANJE prava pripravnika, trajanje, mogućnosti zapošljavanja.  PRESTANAK RADNOG ODNOSA otkazni rokovi, otpremnine, prava radnika nakon prestanka radnog odnosa. O PREDAVAČICI LORENA BASARA ZUPČIĆ diplomirala je na Pravnom fakultetu u Rijeci na temu Radno i socijalno pravo. Također je i sveučilišna specijalistica kriminalističkog istraživanja, tajnica u osnovnoj školi te predavačica. VRIJEME I MJESTO PREDAVANJA 24. 4. 2025. (četvrtak) OD 1315 DO 1415 SATI Filozofski fakultet u Rijeci F - 206, 2. KAT PRIJAVE NAJKASNIJE DO 22. 4. 2025. NA HTTPSFORMS.GLESUI3HUHK5KHERWWL6 1 VIDIMO SE  JER ZNANJE JE VAŠA NAJBOLJA ZAŠTITA NA TRŽIŠTU RADA! Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Re: Vježbe 7 (15.4.2025) Drage studentice i studenti, Kao što je prethodno najavljeno, dostupne su upute za izradu praktičnog zadatka. Od vas se očekuje da samostalno istražite mogućnosti sustava Hair Particle i izradite 3D model stabla. Za inspiraciju, pogledajte završni rad 1 vašeg kolege, Dominika Jakovca, koji je pisao završni rad na istu temu. Zadatak je potrebno izraditi do 22. svibnja 2025. i objaviti ga u vaš e-portfolio. Uz prikaz samostalno izrađenog 3D modela stabla, potrebno je napisati i kratak osvrt na ovu vježbu. Osvrt može obuhvatiti tehnike koje ste koristili, način na koji ste podesili sustav Hair Particle, izazove na koje ste naišli i kako ste ih riješili. Za sva dodatna pitanja slobodno me kontaktirajte putem maila. Lijep pozdrav, Marina Žunić Links 1",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Vježbe danas Dragi studenti i studentice, Podsjećam kako danas nemamo vježbe obzirom da smo zadnji put odradili i gradivo predviđeno za danas. Vidimo se na kolokviju. Kristina",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Vježbe 7 (15.4.2025) Drage studentice i studenti, sutrašnje vježbe će se zbog službenog putovanja održati ONLINE. Tijekom sutrašnjeg dana na Merlinu bit će dostupne upute za izradu praktičnog zadatka kojeg će biti potrebno objaviti u svom e-portfoliju najkasnije do 22. travnja 2025. Molim vas da pažljivo pratite sve upute i da se pridržavate navedenog roka za predaju zadatka. Hvala na razumijevanju i lijep pozdrav, Marina Žunić",
+    "label": 1
+  },
+  {
+    "text": "Predali ste zadacu - txtai (RAG, LLM) zadaci, upload (3 boda) Predali ste zadacu - txtai (RAG, LLM) zadaci, upload (3 boda) Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: TEMA: Napredne metode iscrtavanja Pozdrav svima, objavljeni su materijali za novu temu koja je na rasporedu sljedeći tjedan  Napredne metode iscrtavanja. Radi se o vrlo važnoj temi jza učinkovit i realističan prikaz virtualnih scena, pogotovo u stvarnom vremenu. Kroz ovu ćete temu proučiti metodu praćenja zrake te optimizacijske pristupe koji se koriste pri iscrtavanju 3D scene. Uz skriptu dostupan je i test za samoprovjeru. M. Holenko Dlab",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analiza senzorskih podataka: Online provjera Dragi studenti, dostupna je online provjera uz teme Alati za predviđanje. Stacionarnost vremenske serije. Lijep pozdrav",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: [1. godina prijediplomskog studija] Tjelesni Prosljeđujemo informaciju Poštovani studenti, Svi zainteresirani za sudjelovanje na Festivalu rekreacije  Homo si teć  koji se održava 13.04.205. godine. a priznaje se kao 3 sata TZK-e trebali bi se okupiti ispred Erste banke u 10 00 -10 15 prije glavne utrke koja počinje u 10 30 sati. lp Prof. Sergio de Privitellio",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Materijali za predavanje 10.4. Pozdrav svima, Prošli tjedan imali smo uvodno predavanje u reprezentaciju teksta (objavljena je prezentacija 4 s tim predavanjem. Nisam ga stigla do kraja ispričati, ali ću idući tjedan). Reprezentacija teksta je vrlo opširna tema, a trenutno su u tom području aktualni veliki jezični modeli  LLM-ovi. Budući je to trenutno vrlo važno područje za prikaz znanja, na kolegiju ćemo se kroz više tjedna baviti tom temom. Za sutra imate zadatak proučiti nekoliko poglavlja iz skripte Foundational Large Language Models  Text Generation grupe autora iz Googlea koju sam uploadala u sekciju Predavanja. Početak skripte bavi se uvodom u LLM-ove, jedan dio toga sam pričala na predavanju prošli tjedan. Skriptu počnite čitati od početka. Pri tome možete preskočiti poglavlje The evolution of transformers (str. 23-44) jer ću ja to poglavlje pregledno ispričati na jednom od predavanja  iz tog dijela ne morate znati sve detalj. Nakon toga proučite poglavlje Fine-tuning large language models  do strane 51. Poglavlje Using large language models (str 51.) ću predavati idući tjedan, pa možete čitati samo do strane 51. Nakon pročitanog sadržaja proučite sljedeća pitanja  kao priprema za 2. kolokvij iz teorije. NAPOMENA dijelove koji su složeniji, kao npr. mehanizam pažnje ću ja još pričati na predavanjima, ali ideja je da vi prvo sami proučite osnovno i LLM-ovima. PITANJA IZ PRVOG DIJELA SKRIPTE 1. Za koji zadatak iz područja NLP (obrada prirodnog jezika) je treniran prvi model koji uvodi arhitekturu transformera 2017. godine? 2. Od koja 2 dijela se sastoji transformer? 3. Što je embedding? 4. Na koji način se priprema tekst kao ulazni podatak za transformer. 5. Objasnite što omogućava mehanizam pažnje u treniranju LLM-ova. 6. Objasnite što je Mixture of Experts (MoE) 7. Objasnite postupak finog podešavanja modela (fine tuning) 8. Objasnite pojam Reinforcement learning from human feedback.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Pozvano predavanje srijeda 16.04. u 12:00h Pozvani ste prisustvovati predavanju TEMA Kriptografija i sigurnost mobilnih aplikacija VRIJEME I MJESTO srijeda 16.04.2025. u 1200h u O-028 PREDAVAČ Rino Rodin (ASEE Hrvatska) SAŽETAK PREDAVANJA Cilj predavanja je upoznati studente s ključnim kriptografskim konceptima te njihovom primjenom u zaštiti mobilnih aplikacija i uređaja. U sklopu predavanja bit će obrađene teme poput enkripcije, obfuskacije i autentifikacije uz osvrt na najčešće prijetnje i izazove u mobilnoj sigurnosti. Predavanje će se posebno fokusirati na iOS i Android mobilne aplikacije, a predviđen je i demo vlastitog rješenja za zaštitu mobilnih aplikacija. Sudjelovanjem na predavanju studenti će imati priliku saznati više o kibernetičkim prijetnjama kojima su izložene današnje mobilne aplikacije te kako se uspješno zaštititi od istih.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Nastava 10.4. Pozdrav svima, Sutra nećete imati predavanja u učioni, već ću pripremiti materijale iz područja reprezentacije teksta koje ćete samostalno proučiti (to ću vam danas poslati na Merlin). Vježbe će se sutra održati u učioni prema uobičajenom rasporedu. Ana M.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Pozvano predavanje, srijeda 16.4 u 12:00 Dragi studenti, Predavač RINO RODIN iz tvrtke ASEE Croatia održati će za vas predavanje KRIPTOGRAFIJA I SIGURNOST MOBILNIH APLIKACIJA 16.4.2025. u 1200 u predavaoni O-028 pa vas pozivam da iskoristite priliku. Sažetak predavanja Cilj predavanja je upoznati studente s ključnim kriptografskim konceptima te njihovom primjenom u zaštiti mobilnih aplikacija i uređaja. U sklopu predavanja bit će obrađene teme poput enkripcije, obfuskacije i autentifikacije uz osvrt na najčešće prijetnje i izazove u mobilnoj sigurnosti. Predavanje će se posebno fokusirati na iOS i Android mobilne aplikacije, a predviđen je i demo vlastitog rješenja za zaštitu mobilnih aplikacija. Sudjelovanjem na predavanju studenti će imati priliku saznati više o kibernetičkim prijetnjama kojima su izložene današnje mobilne aplikacije te kako se uspješno zaštititi od istih. Lijep pozdrav, M. Ivašić-Kos",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Programiranje za umjetnu inteligenciju: 3. ispitni rok - bodovi i ocjene Pozdrav svima, Uneseni su bodovi i ocjene u ISVU za 3. ispitni rok. Molim vas provjerite vaše bodove i postotkeocjene u ISVU (ISVU će biti vidljiv od sutra ako sada nije). Ako imate pitanja, javite mi se na mail. Ana M.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Let'sGrow! 2025 (tehnološka konferencija) Prosljeđujemo poziv SAVE THE DATE! Vidimo se 5.5. u Puli, u Hotelu Park Plaza Histria na velikoj godišnjoj tehnološkoj konferenciji LetsGrow! koju po četvrti put priređuje ICT Istra s partnerima i prijateljima iz čitave zemlje, i šire! Očekuju vas inspirativna predavanja i panel-diskusije, uzbudljivo studentsko natjecanje i interaktivne radionice te odlične prilike za networking, a ulaz je BESPLATAN. Među govornicima su Korado Korlević (Visnjan Observatory), Aleksandar Stanković (Nedjeljom u 2), Monika Ivanović (Infobip), Arne Evertsson (Sprend) i mnogi drugi. Poslušajte izvrsne govornike i goste, upoznajte nove ljude i vodeće IT tvrtke, uključite se u razgovore o tome kako najnovija kretanja u tehnologiji oblikuju život i rad u Istri. Očekuje vas i natjecanje studentskih startup ideja pripremite se za nastupe pet najboljih pojedinaca i timova na pozornici pred žirijem, a pripremamo i nekoliko iznenađenja!  Linkovi za društvene mreže udruge (Facebook 1 i Instagram 2) Mole se studenti i nastavnici koji planiraju prisustvovati konferenciji da se do 23. travnja 2025. godine, zbog organizacijskih razloga, obvezno jave na vslavujuniri.hr. Links 1 2",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: STARTAJ OSNAŽENO - nova follow up radionica Dragi brucoši, Pozivam vas na DRUGU RADIONICU STARTAJ OSNAŽENO koja je zamišljena kao nadogradnja prve i na njoj će se izvoditi različite aktivnosti od onih na prvoj radionici. Radionica će se održati 14.04. U 1715 U UČIONICI O-357. Kroz devedeset minuta ugodnog razgovora s kolegama viših godina studija i kolegaica s vaše godine, imat ćete priliku međusobno se upoznati i razmijeniti iskustva studiranja. Inspirirajte se međusobno, učite jedni od drugih, promislite o izazovima s kojima se nosite i podijelite strategije suočavanja! Kako je to izgledalo prošle godine možete vidjeti ovdje 1. Lp, Kristina Host Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: TEMA: Specijalni efekti Pozdrav svima, objavljeni su materijali za učenje ovotjedne teme - Specijalni efekti. Radi se o temi važnoj u 3D modeliranju jer specijalni efekti pomažu u simulaciji prirodnih efekata i pojava koje postoje u svijetu oko nas kako bi se postigao osjećaj realizma te interesantno vizualno iskustvo. M. Holenko Dlab",
+    "label": 1
+  },
+  {
+    "text": "Predali ste zadacu - txtai (RAG) zadaci, upload (3 boda) Predali ste zadacu - txtai (RAG) zadaci, upload (3 boda) Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: Vježbe 07.04. Sljedeće vježbe (07.04.) će se održati asinkrono. Materijali će vam postat dostupni na merlinu tokom tog dana. Slobodno šaljite mail ako budete imali pitanja.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Obavijest studentima u vezi najavljenog štrajka 7. travnja 2025. godine U ponedjeljak, 7. 4. 2025. godine, Nezavisni sindikat znanosti i visokog obrazovanja, zajedno s Nezavisnim sindikatom zaposlenih u srednjim školama Hrvatske i Sindikatom Preporod, najavio je štrajk u kojem mogu sudjelovati članovi i nečlanovi sindikata. Sudjelovanje u štrajku individualna je odluka svakog nastavnika i zaposlenika Fakulteta informatike i digitalnih tehnologija. Nastava na svim godinama studija bit će redovito organizirana, a nastavnici će studente tijekom današnjeg dana obavijestiti porukom u e-kolegijima sustava Merlin o načinu izvršavanja nastavnih obveza, eventualnom neodržavanju kontaktne nastave te mogućnostima nadoknade nastave na kolegijima.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Vježbe 3.4.2025. Zbog bolesti nastavnika, vježbe se 3.4.2025. neće održati. Lp",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Analiza senzorskih podataka: Predavanje u petak 4. travnja Dragi studenti, u petak se predavanje neće održati. Izlaganje studenata odgađa se za slijedeći petak. Dakle, u petak 11.4. imamo izlaganja Pametni turizam, Vukoje i Šojat Električna vozila i Internet of Things (IoT), Benington i Duda Lijep pozdrav",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Analiza senzorskih podataka: Izlaganja ASP IIS počinju u 9:00 sati Poštovani studenti, ubuduće će ladi lakše organizacije izlaganja projekata na vježbama počinjati u 900 sati, dok je termin od 815 rezerviran za konzultacije. Dakle IZLAGANJA će od sljedeći put POČINJATI U 900 SATI. S poštovanjem, Dejan Ljuboratović",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Postani studentski ambasador/ica Sveučilišta u Rijeci Prosljeđujemo info Postani studentski ambasadorica Sveučilišta u Rijeci! PRIJAVE SE ZAPRIMAJU DO 14. TRAVNJA 2025. putem online obrasca. Više informacija i prijava  na hrvatskom jeziku 1  na engleskom jeziku 2 Links 1 2",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Poziv na Ri-Comp 2025 Prosljeđujemo poziv Poštovane studentice i studenti, pozivamo vas da sudjelujete na konferenciji Ri-Comp 2.0, koja će se održati u Rijeci, na Tehničkom fakultetu Sveučilišta u Rijeci, 4. travnja 2025. godine, s početkom u 1400 sati. Konferencija okuplja stručnjake iz IT industrije i akademske zajednice, a ovogodišnji pozvani predavač (keynote speaker) je Miljen Mikić, Head of SpaceTime Engineering u tvrtki Mireo, koji će s prisutnima podijeliti svoja iskustva iz bogate profesionalne karijere. Uz to, konferencijski program obuhvaća niz zanimljivih predavanja iz područja financijskih tehnologija (FinTech), web razvoja i umjetne inteligencije (AI). Ri-Comp 2.0 predstavlja izvrsnu priliku za usvajanje novih znanja, umrežavanje s profesionalcima i upoznavanje s najnovijim trendovima u računarstvu. Konferencija je BESPLATNA za sve sudionike, a više informacija o programu i prijavi dostupno je na službenoj stranici konferencije 1 Vidimo se na Ri-Comp 2025! Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: TEMA: Teksturiranje i osvjetljavanje 3D modela Pozdrav svima, u tjednu koji je pred nama je predviđeno učenje teme Teksturiranje i osvjetljavanje 3D modela. Veći dio je ponavljanje iz predmeta Računalna grafika, za one koji su slušali taj predmet. Podsjećam da još danas možete rješavati samoprovjeru iz teme Virtualni likovi te objaviti slike i opise svojih omiljenih likova uz likove generirane s AI. U forumu već ima zanimljivih ilustracija. M. Holenko Dlab",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: Poziv Ri comp Dragi studenti, Pozivamo vas da prisustvujete konferenciji Ri-Comp 2.0, koja će se održati u Rijeci 4.4.2025. na Tehničkom fakultetu s početkom u 1400, i koja će okupiti stručnjake iz IT industrije i akademske zajednice! Ovogodišnji keynote speaker je Miljen Mikić, Head of SpaceTime Engineering  Mireo, koji će s nama podijeliti svoja iskustva iz dugogodišnje karijere. Osim toga, čeka nas mnoštvo zanimljivih predavanja iz područja Fintech-a, web razvoja i AI-ja! Ovo je sjajna prilika za učenje, umrežavanje i istraživanje najnovijih trendova u računarstvu. Više informacija o programu i prijavama pronaći ćete na zvaničnoj stranici konferencije Vidimo se na Ri-Comp 2025!",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Infrastruktura za podatke velikog obujma: Ispit IPVO 27. 3. 2025. Poštovani studenti, Trć ispitni rok iz IPVO održat će se u ČETVRTAK, 27. 3. 2025., u učionici O-357. Kako bismo skratili čekanje, prijavljeni studenti podijeljeni su u dvije grupe. Molim vas da dođete točno na početak određenog termina. 1515 Daniel Duda, Monika Lakić, Teo Salopek 1615 Benjamin Jakupović, Helena Alija, Rebeka Filipović Želim vam puno uspjeha na ispitu! Rok",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Re: Ljetna škola - umjesto završnog ispita Dobili smo informaciju da je odobreno 20 stipendija i funkcionira tko prvi njegovo. Plaćen smještaj (u sobi po dvoje) i trošak participacije, ono što morate pokrit je put i hranu, ali dobivate i stipendiju kojom zapravo to i pokrijete. Tekst u privitku I am happy t o inform you that our CEEPUS application has been granted. We got 20 students months. I would like to ask them to register first at SSIP website ( 1). We will apply First Come First Served rule for CEEPUS student scholarship. After they registered, I will send them a guide how too apply for CEEPUS scholarship. According to the Hungarian NCOs rules, the scholarship will be granted within the network, but there is a possibility for freemover scholarships as well. Tthe student scholarship is 90 000 HUF. Student CEEPUS scholarship holders would be exempted from the registration fee and accommodation fee, and would be accommodated in double rooms. Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Re: najava kolokvija iz teorije - 27.3. Kolokvij će se sutra održati u prostoriji O-366 s početkom u 1015 sati. Lp",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Programiranje za umjetnu inteligenciju: Ocjene u ISVU Pozdrav svima, Upisala sam ocjene u ISVU za 1. i 2. rok i sutra će biti vidljive. Molim vas provjerite ako se upisani postotak i ocjena slažu s brojem bodova koje ste dobili. Ako nešto ne štima, javite mi se na mail do kraja tjedna. Ana M.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Ljetna škola - umjesto završnog ispita Dragi studenti i studentice, šaljem poziv za školu koja će se održati u srpnju koju možete pohađati umjesto klasičnog završnog ispita. Do sad je svake godine financirano od strane CEEPUSa, pa se nadamo da će i ove biti moguće ostvariti stipendiju,. Tu informaciju možete pratiti na njihovoj web stranici.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: Re: TEMA: Modeliranje virtualnih likova Dragi studenti, ovaj tjedan nastavljamo s temom Vitrualni likovi. Umjesto nove samoprovjere, zadatak je sudjelovati u raspravi u forumu Moj virtualni lik te  objaviti sliku svog omiljenog virtualnog lika (npr. iz igre, animiranog filma ili sl.)  pomoću alata temeljenog na generativnoj umjetnoj inteligenciji generirati sliku jednog lika. Ovaj zadatak će vam poslužiti kao inspiracija za izradu vlastitih 3D modela virtualnih likova te vježba analize emocija kod virtualnih likova. Uz pozdrav, M. Holenko Dlab",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Neo4j zadaci, upload (3 boda) Predali ste zadacu - Neo4j zadaci, upload (3 boda) Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analiza senzorskih podataka: Odabir teme i parova za seminarski rad Poštovani studenti, Teme i tandeme za izlaganja morate prijaviti najkasnije do 24.03. Kako temu možete i promijeniti ako u međuvremenu osmislite nešto bolje, bitno je da prijavite PAROVE koji će izlagati, tako da se može napraviti raspored izlaganja. S poštovanjem, Dejan",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Poziv za izbor demonstratora u ljetnom semestru ak. god. 2024./2025. Drage studentice, dragi studenti, dostavljam poziv dekanice Fakulteta informatike i digitalnih tehnologija Sveučilišta u Rijeci za izbor demonstratora u ljetnom semestru ak. godine 2024.2025. Na poziv se potrebno javiti izravno nositeljima kolegija za koje se traže demonstratori. Rok za prijavu je četvrtak, 27. ožujka 2025. godine. Srdačan pozdrav svima, VS Privitak Poziv za demonstratore u ljetnom semestru 2024-2025.pdf",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: najava kolokvija iz teorije - 27.3. Pozdrav svima, Podsjećam da će se idući tjedan, 27.3. odaržti kolokvij iz teorije. Gradivo koje ulazi u kolokvij je sadržaj prve tri prezentacije P1, P2, P3 i sve što ste radili na vježbama do sada. Ana M.",
+    "label": 1
+  },
+  {
+    "text": "Predali ste zadacu - Zadatak klasifikacije znanja (predaja rješenja) Predali ste zadacu - Zadatak klasifikacije znanja (predaja rješenja) Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Strojno i duboko učenje: Predavanja na danima karijere umjesto redovitog predavanja 24.3. Dragi studenti, Na Danima karijere 2025. koji se organiziraju na Kampusu od 24 do 27.3. planirane su različite informativne i edukativne aktivnosti za studente, zaključno s Job fairrom koji će se održati u holu naše zgrade. Više informacija možete naći na 1 Umjesto mog redovitog predavanja pozivam vas da posjetite predavanje AI SVUDA OKO NAS! KAKO CHATBOTOVI POMAŽU PUTNICIMA, A SENZORI UNAPREĐUJU POLJOPRIVREDU koje će se održati u ponedjaljak 24.3. na FILOZOFSKOM FAKULTETU, u dvorani 006, OD 12-1245, a predavači su naši bivši studenti koji sada rade u poduzeću ELIXIRR DIGITAL. U ponedjaljak će se održati više predavanja koja bi vam mogla biti zanimljiva, a sve se odvija na FF i u istoj dvorani. Izdvajam neka  1100-1200 ŠTO NAKON DIPLOME? -podrška HZZ-a i CISOK-a Centar za informiranje i savjetovanje o karijeri, HZZ Rijeka  1200-1245 AI SVUDA OKO NAS! KAKO CHATBOTOVI POMAŽU PUTNICIMA, A SENZORI UNAPREĐUJU POLJOPRIVREDUElixirr Digital  1245 - 1415. MOJA BUDUĆNOST - INKLUZIJA NA TRŽIŠTU RADA Udruga ZNAM  1415 - 1515 TVOJE PRILIKE ZA MOBILNOST  INFORMIRAJ SE, INSPIRIRAJ SE! Centar za međunarodnu mobilnost, UNIRI YUFE alijansa CTK Rijeka U utorak 25.3. predavanje će se održati na StepRi-u, a predavači će opet biti naši bivši studenti sada zaposleni u Crossvallii 1500 - 1600 OD JEDNOG SERVERA DO SVJETSKE DOMINACIJE SKALIRANJE WEB APLIKACIJA S HAPROXYJEM, Crossvallia Nadam se da ćete na danima karijere pronaći zanimljiva predavanja i korisne informacije. Lijep pozdrav, M. Ivašić-Kos Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Obavijest studentima u vezi najavljenog štrajka 19. ožujka 2025. godine U srijedu, 19. 3. 2025. godine, Nezavisni sindikat znanosti i visokog obrazovanja najavio je štrajk u kojem mogu sudjelovati članovi i nečlanovi sindikata. Sudjelovanje u štrajku individualna je odluka svakog nastavnika i zaposlenika Fakulteta informatike i digitalnih tehnologija. Nastava na svim godinama studija bit će redovito organizirana, a nastavnici će studente tijekom današnjeg dana obavijestiti porukom u e-kolegijima sustava Merlin o načinu izvršavanja nastavnih obveza, eventualnom neodržavanju kontaktne nastave te mogućnostima nadoknade nastave na kolegijima. Poster s datumom - štrajk",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Predavanje „Moj profesionalni razvoj“ Prosljeđujemo poziv Ured za karijere Filozofskoga fakulteta u Rijeci u suradnji s CENTROM ZA INFORMIRANJE I SAVJETOVANJE O KARIJERI (CISOK) RIJEKA Vas poziva na interaktivno predavanje MOJ PROFESIONALNI RAZVOJ, tijekom kojeg će biti odgovoreno na sljedeća pitanja KAKO OSVIJESTITI SVOJE RADNE POTENCIJALE? KAKO DEFINIRATI PODRUČJA ZA RAZVOJ?  KAKO NAPRAVITI PLAN RAZVOJA KARIJERE (ŠTO ŽELIM, KOJE KORAKE MORAM PODUZETI DA BIH ŽELJENO POSTIGAOLA...). O PREDAVAČICI MELITA SERŠIĆ suradnica je u Centru za informiranje i savjetovanje o karijeri (CISOK) Rijeka pri Hrvatskom zavodu za zapošljavanje, Područnoj službi Rijeka. Diplomirala je psihologiju na Filozofskom fakultetu u Rijeci. VRIJEME I MJESTO PREDAVANJA 27. 3. 2025. (četvrtak) OD 1315 DO 1415 SATI FILOZOFSKI FAKULTET U RIJECI PROSTORIJA F-230, 2. KAT Prijave najkasnije do 25. 3. 2025. putem poveznice 1 Veselimo se Vašem dolasku! Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: TEMA: Modeliranje virtualnih likova Pozdrav svima, sljedeća sva tjedna bavit ćemo se temom modeliranja virtualih likova. U pripremljenom materijalu za učenje možete pročitati primjere primjene virtualnih likova, koje su karakteristike važne za modeliranje 3D virtualnih likova te koje se metode i tehnike koriste. Pripremljen je i test za samoprovjeru kojim ožete provjeriti što ste naučili. Uz pozdrav, M. Holenko Dlab",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Najava aktivnosti Na vježbama će se 20.3.2025. pisati kraći pisani zadatak za bodove. Lp",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: CYRUS webinar Prosljeđujemo poziv Cefriel is a partner in the CYRUS project, which is also involved in cybersecurity training but from a different perspective. The focus here is on reskilling and upskilling actions for the transport and manufacturing sectors SMEs. In the CYRUS project, we have organised a one-hour webinar on 24 MARCH AT 1100 AM, during which we will present the final catalogue of project courses and open registrations. I would like to ask for support in disseminating the event and, of course, if you want to participate. Attached is a possible communication email with the event details. The courses are free and focus on security in the transportation and manufacturing sectors. They will be offered in a combination of e-learning and webinar formats. Our courses will be available in both Italian and English, while those from our partners will primarily be in English and other local languages (e.g. Polish, Portuguese, French). THE CEFRIEL COURSES IN THE CATALOGUE ARE  Personal and corporate cyber hygiene  e-learning  The evolution of social engineering, exposure and protection of digital identity, personal and corporate - e-learning  Todays information security  webinar  Threat analysis, threat landscaping and threat modelling  webinar HOW CAN YOU REGISTER? And whats in it for you? Please find out more in our free webinar on 24 March. 1 WHO SHOULD TAKE PART  Employees from the transport and manufacturing sectors from all levels of the organisation  SMEs  enterprises looking to upskill their workforce in cybersecurity  Professional associations and training providers  HR  LD (learning  development) professionals focused on cybersecurity skill development Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Prikaz znanja i rezoniranje o znanju: Termini početka predavanja i vježbi Pozdrav svima, Sutra predavanja počinju u 1015, a vježbe u 1215. Vidimo se sutra. Ana M.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Analiza senzorskih podataka: Produljenje roka za odabir teme seminarskog rada Dragi studenti, produljuje se rok za odabir teme seminara uz pregled vaših odabira. Studenti Sedlar i Drglin su odabrali temu koja je već zauzeta, tako da trebaju ponoviti odabir (slobodna je tema planirana za 14.3.). Trenutne rezervacije tema 1. (14.3.) Pametna poljoprivreda 2. (21.3.) Pametni gradovi, Fabac i Koraca 3. (28.3.) Strojno učenje i sigurnost bežičnih senzorskih mreža, Rastović i Alija 4. (4.4.) Pametni turizam, Vukoje i Šojat 5. (11.4.) Električna vozila i Internet of Things (IoT), Benington i Duda 6. (25.4.) IoT i zdravstvo, Cukrov i Kraljić 7. (2.5.) Obrazovanje i IoT, Belušić i Buljević 8. (9.5.) Duboki modeli vremenskih serija, Jakupović i Đekić 9. (16.5.) Detekcija anomalija u vremenskim serijama, Ahmičić 10. (23.5.) Polunadzirano učenje u analizi vremenskih serija, Mateo Bakić",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: UNIRI Career Days 2025 Prosljeđujemo poziv Drage studentice i studenti, alumne i alumni Sveučilišta u Rijeci, Uskoro imate priliku zakoračiti u svijet karijernih mogućnosti na TREĆEM IZDANJU DANA KARIJERA  UNIRI CAREER DAYS 2025! Ovaj događaj, u organizaciji Sveučilišta u Rijeci, održava se od 24. DO 27. OŽUJKA 2025. na sveučilišnom Kampusu (Trsat). ŠTO VAS OČEKUJE?  24.  26. OŽUJKA  Predavanja, radionice i tribine koje će vam pomoći da  Razvijete ključne vještine upravljanja karijerom  Otkrijete sve mogućnosti koje vam pruža Sveučilište u Rijeci  Unaprijedite svoje prenosive vještine i povećate šanse za profesionalni uspjeh  27. OŽUJKA  UNIRI JOB FAIR (1300  1800, prizemlje zgrade Sveučilišnih odjela) Više od 40 IZLAGAČA! Otkrijte što poslodavci traže, povežite se s potencijalnim poslodavcima i saznajte sve o prilikama za volontiranje, praksu i posao. PAŽNJA!  Svi sudionici edukativnih i informativnih aktivnosti imaju priliku sudjelovati u NAGRADNOJ IGRI i osvojiti vrijedne nagrade!  NAKON 1800 SATI  AFTER JOB FAIR PARTY! U CAF-BARU KAMPUS (AKVARIJ) održat će se dodjela nagrada dobitnicima i dobitnicama nagradne igre, a potom i druženje u organizaciji STUDENTSKOG ZBORA SVEUČILIŠTA U RIJECI. Ovo je izvrsna prilika za neformalno umrežavanje i povezivanje s poslodavcima u opuštenoj atmosferi.  NE PROPUSTITE PRILIKU DA SE ISTAKNETE! Detaljan program i informacije o izlagačima pronađite ovdje 1.  NEKE AKTIVNOSTI IMAJU OGRANIČEN BROJ MJESTA! Osigurajte svoje sudjelovanje prijavom putem ove poveznice 2. Ne čekajte zadnji trenutak  uložite u svoju budućnost već sada i istražite more mogućnosti koje smo pripremili za vas!  VIDIMO SE NA UNIRI CAREER DAYS 2025!  karijereuniri.hr  Društvene mreže  Facebook 3   Instagram 4 Links 1 2 3 4",
+    "label": 0
+  },
+  {
+    "text": "Rok Piltaver je poslao/la povratnu informaciju vezano uz zadacu Predaja praktičnog rada Rok Piltaver je poslaola povratnu informaciju vezano uz zadacu Predaja praktičnog rada Mozete je pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "Kristina Host je poslao/la povratnu informaciju vezano uz zadacu v2 - aktivnost - uvod u Colab Kristina Host je poslaola povratnu informaciju vezano uz zadacu v2 - aktivnost - uvod u Colab Mozete je pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - v2 - aktivnost - uvod u Colab Predali ste zadacu - v2 - aktivnost - uvod u Colab Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analiza senzorskih podataka: Odabir teme seminarskog rada Dragi studenti, skrećem pažnju da je, kao što je rečeno na predavanju, rok za odabir teme seminarskog rada 11.3. u 23.99. Detalji su u danim uputama. Lp",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Postani edukator/ica - Startaj osnaženo (novi ciklus) Drage studentice, dragi studenti, U sklopu projekta UNIRI BRINE pripremili smo niz aktivnosti u koje se možete uključiti i doprinijeti stvaranju pozitivne atmosfere na UNIRI, a pritom steći dodatna znanja i vještine, pružiti pomoć i podršku kolegamaicama te osigurati DODATNU ZARADU!  Prijave za edukatore za NOVI CIKLUS Startaj osnaženo su otvorene. Prijave su otvorene DO 14. OŽUJKA 2025. Službeni poziv, zajedno s prijavnim obrascem, nalazi se na našoj web stranici 1 PRIJAVNI OBRAZAC MOŽETE PRONAĆI NA POVEZNICI HTTPSFORMS.OFFICE.COME7SAJBHD4T6 2 Ukoliko ima dodatnih pitanja, slobodno mi se možete obratiti putem emaila na KRISTINA.HOSTINF.UNIRI.HR Lp, Kristina Host, Koordinatorica FIDIT-a za UNIRI BRINE Links 1 2",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Analitika podataka velikog obujma: Vježbe Danas počinjemo sa vježbama, u 1400h, učiona 350. Obraditi ćemo NoSQLMongoDB (nema potrebe da dođete ako ste već upoznati sa tom temom).",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Dubinska analiza podataka: Re: Ispitni rokovi Drage studentice i studenti, evo ažurirani raspored obrana za sutra. 1700 Dominik Jakovac 1715 Leo Vukoje 1730 Benjamin Jakupović 1745 Marko Vrban 1800 Dorian Marasović i Filip Papić 1815 Matea Plenča 1830 Josip Čanađija Vidimo se!",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] 3D računalno modeliranje: TEMA: Vrste i tehnike 3D računalnog modeliranja Pozdrav svima, dostupna je skripta za učenje teme Vrste i tehnike 3D računalnog modeliranja i pripadna samoprovjera koju možete rješavati do kraja tjedna. M. Holenko Dlab",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Programiranje za umjetnu inteligenciju: Završni ispit - 3. rok Pozdrav svima, Završni ispit održat će se u uroak, 11.3. u 1200 sati u učionici O-357. Ana M.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: AIDA Symposium & Summer School on \"Artificial Intelligence and Machine Learning Cutting Edge Trends \" (AIDA AICET2025), 14-18th July 2025, Thessaloniki, Greece Prosljeđujemo poziv Dear AI, CSCSE, or ECEEE student, scientist, engineer, professional, AI enthusiast, the International AI Doctoral Academy (AIDA 1) is excited to invite you to register and attend the upcoming hybrid (localremote) AIDA AICET2025  Symposium  Summer School on AIML Cutting Edge Trends 2 which will take place in and Aristotle University of Thessaloniki (AUTH), Greece, 14-18th July 2025. AIDA AICET2025 Symposium and School will feature 15 top-tier keynote and invited lectures, and 30 excellent tutorialsshort coursesspecial sessions covering the latest advancements in AI AND MACHINE LEARNING, with distinguished speakers from leading universities in the USA and Europe (many having 50K and several having around 100K citations). Its various tracks are suitable for students, scientists, engineers, professionals from any ECEEE or CSCSE discipline and for any AI enthusiast. AIDA AICET2025 covers a wide range of topics related to a) AI core including Deep Learning and Generative AI, b) various AI applications, c) AI programming skill development, and c) social impact of AI and AI ethics. AIDA AICET2025 PROGRAM TOPICS  Deep Learning, Generative Artificial Intelligence, Foundation Models, Large Language Models  Machine Learning, AI Foundations, Pattern Recognition, Reinforcement Learning and Sequential Decision-making  Trustworthy AI, Explainable AI, AI Ethics and Governance  Adversarial, Continual, Federated, Transfer Learning, Knowledge distillation  Distributeddecentralized AI, Networked Intelligence, CloudEdge AI, HWSW for AI acceleration  Computer Vision, Intelligent Robotics, AI and Autonomous SystemsCarsVehicles  Natural Language Processing, AI for Speech, MusicSound Analysis and Synthesis, AI for Signal Processing,  Human-Centered Machine Learning, Human-Centered Media Analysis, Artificial Social Intelligence  Neurosymbolic AI, Knowledge Representation and Problem-Solving, Reasoning and planning,  AI and Games, Deep Arts, AI in Humanities, AI-powered Education  AI and Neuroscience, AI in Health Sciences,  AI in Material Science, AI and Quantum Computing, AI and Wireless Computing  AI in Markets and Finance, AI for Marketing, AI and Social Media  AI and Disinformation, AI and Forensics, AI Bias  BONUS A pre-symposium short course on Deep Learning by Prof. Ioannis Pitas (AUTH) on JULY 13, 2025 see details 3. DETAILS  DATES JULY 14-18, 2025  ON-SITE KEDEA Building 4, AUTH, Thessaloniki, Greece.  ONLINE Zoom links will be provided in due time.  CERTIFICATE OF ATTENDANCE will be provided upon request.  SEASIDE GALA DINNER. Two optional EXCURSIONS beforeafter AICET2025 to a) the ancient Macedonian capital Vergina  b) Western Macedonia (Kastoria).  REGISTER NOW 2  GROUP REGISTRATION Group registrations (comprising 5 registrants or more) can enjoy a 20 discount on the above registration fees (or even more in the case of a massive group registration). More information ON THE VARIOUS LECTURES, TUTORIALSSHORT COURSES, REGISTRATION OPTIONS, BACKGROUND NEEDED AND GENERAL CONDITIONS can be found on the event webpage 2. In case of questions, you can contact the symposium manager Ms. Efi Patmanidou epatmancsd.auth.gr We look forward to welcoming you to this exciting AIML event in beautiful Thessaloniki! On behalf of the AIDA AICET2025 Organizing Committee Prof. Ioannis Pitas (AIDA chair, AUTH, AICET2025 chair) Prof. Efstratios Gavves (University of Amsterdam), Prof. Stefano Berretti (University of Firenze), Prof. Evangelos Kanoulas (University of Amsterdam)  GOLD SPONSOR Cook Medical  TECHNICAL SPONSORS TEMA 5, AI.BIG cluster 6, SIMAR 7 RD projects and AIDA 1. Links 1 2 3 4 5 6 7",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Postani EU Careers Student Ambassador Sveučilišta u Rijeci Prosljeđujemo info U tijeku su prijave za EU CAREERS STUDENT AMBASSADORA ispred Sveučilišta u Rijeci za akad.god. 20252026. Program EU Careers Student Ambassadora provodi se u suradnji s European Personnel Selection Office, kao i Ministarstvom vanjskih i europskih poslova RH. Više informacija 1 Rok za prijavu je 15. ožujka, online putem prijavnice 2 Links 1 2",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: VI. krug dodjele državnih stipendija u STEM područjima znanosti u akademskoj godini 2024./2025. Drage studentice i studenti, obavještavamo Vas da je objavljen VI. krug dodjele državnih STEM stipendija. Liste i rang-liste dostupne su u mrežnoj aplikaciji 1. Obavijest o objavi listi i rang-listi dostupna je na poveznici 2 U skladu s odustajanjem od stipendije crta se pomiče na sljedećim rang-listama.  Prva godina prijediplomskog, integriranog prijediplomskog i diplomskog te stručnog kratkog studija i stručnog prijediplomskog studija - s obzirom na dva odustajanja od stipendije, crta se pomiče za dva mjesta.  Više godine prijediplomskog studija i druga godina stručnog kratkog studija - s obzirom na jedanaest odustajanja od stipendije, crta se pomiče za jedanaest mjesta.  Više godine integriranog prijediplomskog i diplomskog studija - s obzirom na dvanaest odustajanja od stipendije, crta se pomiče za dvanaest mjesta.  Prva godina diplomskog studija - s obzirom na dva odustajanja od stipendije, crta se pomiče za dva mjesta.  Druga godina diplomskog studija - s obzirom na jedno odustajanje od stipendije, crta se pomiče za jedno mjesto. Srdačan pozdrav Links 1 2",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Besplatno cijepljenje protiv HPV-a Prosljeđujemo Povodom MEĐUNARODNOG DANA SVJESNOSTI O HPV-U, Međunarodna udruga studenata medicine  CROMSIC, u suradnji s NZZJZ PGŽ, organizira BESPLATNO CIJEPLJENJE PROTIV HPV-A za studentice i studente. Cijepljenje će se održati u UTORAK, 4. OŽUJKA 2025. na Sveučilišnom kampusu u Rijeci. TERMINI I LOKACIJE  1030  1330  Akvarij gore (ulaz s terase restorana Kampus) 1  1400  1800  Ambulanta NZZJZ PGŽ (1. objekt smještaja SN Trsat - UNIRI kampus) 2 Cijepljenje je BESPLATNO za sve studente do 25. GODINE ŽIVOTA! PRIJAVE SU OBAVEZNE, A STUDENTI SE MOGU PRIJAVITI PUTEM POVEZNICE 3 Na cijepljenje je potrebno ponijeti CIJEPNI KARTON IILI ZDRAVSTVENU ISKAZNICU. Links 1 2 3",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Završni rad - izrada e-tečaja Predali ste zadacu - Završni rad - izrada e-tečaja Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Predaja materijala uz projektni zadatak (26.02.) Predali ste zadacu - Predaja materijala uz projektni zadatak (26.02.) Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: YUFE Challenge Prosljeđujemo poziv Studenti i studentice, prijavite se i postanite dio YUFE Challenge tima! I ovaj semestar imate priliku sudjelovati u aktivnosti YUFE Challenge Teams, koja se provodi u sklopu projekta YUFE2030. Možete birati između ČETIRI IZAZOVA 1 iz stvarnog života i raditi na inovativnim rješenjima u internacionalnim timovima pod vodstvom akademskih mentora iz YUFE sveučilišta. Rad na izazovima traje od ožujka od svibnja i odvija se putem online platforme. Glavni cilj ove aktivnosti je razvoj novih i inovativnih rješenja na društvenoj, znanstvenoj i tehnološkoj razini. Osim što ćete steći iskustvo rada u međunarodnom okruženju, sudjelovanjem u YUFE izazovima imat ćete priliku prijaviti se i za YUFE Star program te stjecati YUFE Professional Star. Vaše sudjelovanje bit će akreditirano i priznato u diplomama. U ovom semestru možete se prijaviti za slijedeće izazove  Im not lecturing you!  Challenging online Extreme and anti-Social Speech  Digitizing Archaeological Heritage  Robotic 3D Printing (3DP) and Augmenter Reality (AR)-Guided Assembly for Rapid Disaster Relief Shelters PRIJAVE 2za sudjelovanje u YUFE izazovima otvorene su do 2. OŽUJKA 2025. GODINE. Više informacija o YUFE izazovima i drugim aktivnostima iz područja inovacija i poduzetništva možete pronaći na YUFE mrežnim stranicama 3. Links 1 2 3",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: V. krug dodjele državnih stipendija u STEM područjima znanosti u akademskoj godini 2024./2025. Drage studentice i studenti, obavještavamo Vas da je objavljen V. krug dodjele državnih STEM stipendija. Liste i rang-liste dostupne su u mrežnoj aplikaciji 1. Obavijest o objavi listi i rang-listi dostupna je na poveznici 2. U skladu s odustajanjem od stipendije crta se pomiče na sljedećoj rang-listi  Više godine integriranog prijediplomskog i diplomskog studija - s obzirom na pet odustajanja od stipendije, crta se pomiče za pet mjesta. Na ostalim rang-listama (Prva godina prijediplomskog, integriranog prijediplomskog i diplomskog te stručnog kratkog studija i stručnog prijediplomskog studija, Više godine prijediplomskog studija i druga godina stručnog kratkog studija, Prva godina diplomskog studija, Druga godina diplomskog studija) nema pomicanja crte jer je dodijeljena ukupna kvota stipendija te nije bilo odustajanja od stipendije. Srdačan pozdrav Links 1 2",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: UNIRI Career Days / Poziv volonterima Prosljeđujemo poziv Treća po redu manifestacija UNIRI CAREER DAYS 2025 održat će se OD 24. DO 27. OŽUJKA 2025. na SVEUČILIŠNOM KAMPUSU NA TRSATU, u organizaciji Alumni mreže UNIRI, Savjetovališta za profesionalno usmjeravanje i razvoj karijere, Doktorske škole i Studentskog zbora Sveučilišta u Rijeci. Manifestacija UNIRI Career Days organizira se s ciljem jačanja kompetencija za upravljanje karijerom kod studenata, studentica i alumna svih sastavnica riječkog Sveučilišta, informiranja o potrebama na tržištu rada, povezivanja s poslodavcima te međusobnog umrežavanja. U tijeku je formiranje VOLONTERSKOG TIMA koji nam je izrazito važan za organizaciju manifestacije, POZIV VOLONTERKAMA I VOLONTERIMA je u prilogu. Privitak UNIRI Career Days 2025Poziv volonterima.pdf",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Objava Natječaja za dodjelu stipendija iz Fonda „Aleksandar Abramov“ 24/25 Drage studentice, dragi studenti, obavještavamo vas da je Sveučilište u Rijeci objavilo na svojim mrežnim stranicama Natječaj 1 za dodjelu stipendija iz Fonda Aleksandar Abramov u 2024.2025. akademskoj godini. Stipendije su namijenjene studentima  studenticama I. i II. razine studija nižeg socio-ekonomskog statusa. Sve informacije, natječaj i obrasci za preuzimanje nalaze se na sljedećoj POVEZNICI 2. Srdačan pozdrav Links 1 2",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: ESN Rijeka - prijave za članstvo Drage studentice, dragi studenti, prosljeđujemo upit od ESN Rijeka, dijela Erasmus Student Networka, jedne od najvećih studentskih organizacija u Europi. ESN djeluje u preko 40 zemalja s ciljem podrške studentskim razmjenama i integracije stranih studenata. ESN Rijeka, kao neprofitna organizacija, pomaže inozemnim studentima u prilagodbi i upoznavanju Hrvatske. Trenutačno su otvorene prijave za članstvo, a prijave se podnose online prijavnicom. Poveznica za prijavu 1 Srdačan pozdrav Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Primijenjena multivarijatna analiza podataka za informatičare: Ispitni rok 12. veljače RASPORED OBRANA PROJEKTA NA ISPITNOM ROKU 12.2. (PMAPI) Ispit će se održati online putem Teamsa. Bit ćete pozvani u naznačeno vrijeme. 10.00. Helena Alija, Damjan Đekić, Milan Rastović 10.15. David Josipović 10.30. Eric Jakovac, Monika Lakić",
+    "label": 1
+  },
+  {
+    "text": "Marija Brkić Bakarić je poslao/la povratnu informaciju vezano uz zadacu Predaja seminarskog rada i/ili izvješća - obrana 7.2. Marija Brkić Bakarić je poslaola povratnu informaciju vezano uz zadacu Predaja seminarskog rada iili izvješća - obrana 7.2. Mozete je pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Predaja seminarskog rada i/ili izvješća - obrana 7.2. Predali ste zadacu - Predaja seminarskog rada iili izvješća - obrana 7.2. Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Stipendije za izvrsnost u 2024./2025. - Privremena rang-lista Na mrežnim stranicama Sveučilišta u Rijeci objavljena je Privremena rang-lista kandidata koji su ostvarili pravo na stipendiju za izvrsnost u 2024.2025. akademskoj godini.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Dodatno pojašnjenje za izradu e-tečajeva Lijepi pozdrav, pregledala sam predane obrasce za analizu i dizajn e-tečajeva te sam u njih upisala svoje komentare i uplodala ih u Merlin (predstavniku grupe). Molim da ih pročitate prije početka izrade tečajeva. Također, opise tečajeva doradite prema komentarima, a nove obrasce predajte na ispitnom roku na koji ste prijavili (u zadaću 1). Ovdje navodim ZAJEDNIČKE KOMENTARE koji će koristiti svima. OPĆI KOMENTARI E-AKTIVNOSTI Podsjetila bih vas sve da se e-aktivnosti definiraju i opisuju (uz primjere koji su i u prilogu udžbenika) u 11. poglavlju udžbenika Uvod u e-učenje. Treba ih razlikovati od npr. aktivnosti procjene znanja poput online testa (ONLINE TEST NIJE E-AKTIVNOST). Također, domaća zadaća NIJE e-aktivnost Primjer za e-aktivnost je ZAVRŠNI PROJEKT koje većina tečajeva iz informatike može (ili čak mora imati). Prijedlog je da SVI PLANIRATE OVU E-AKTIVNOST U ZADNJEM TJEDNUMODULU E-TEČAJA kojom će se na zanimljiv način za polaznike provjeriti mogu li napraviti sve ono što se u tečaju obrađuje (tj. ostvariti ishode. E-aktivnost treba pripremiti na zadanom obrascu i priložiti u obrazac za analizu, a osmislite joj i konkretnije ime koje odgovara zadatku (npr. Projekt u Scratch-u). Također se može (po potrebi u prilagođenom obliku) kao PDF dokument uključiti i u e-tečaj (upute za polaznike). Studenti koji planiraju kao jednu od e-aktivnosti RASPRAVU U FORUMU, neka razmisle koliko je prikladna za polaznike i temu tečaja. Prijedlog je da raspravu imate samo kao neobaveznu aktivnost (dakle da uopće nema bodove ili barem da nema praga prolaza za tu aktivnost). ISHODI Dio grupa nije dobro razradio ishode učenja, iako je ovo manje važno studenima koji nisu na nastavničkim studijima, svi bi trebali pročitati osnove u udžbeniku (str. 13-14) i pripaziti da ne koristite zabranjene glagole (npr. razumjeti NE koristimo) te da se ne koristi samo jedan isti glagol (npr. izraditi). MOODLE AKTIVNOSTIRESURSI Kod RAZRADE TEMATSKIH CJELINAMODULA (to su u Moodlu teme) u obrascu treba definirati tip Moodle resursaaktivnosti (a ne samo naslov), primjerice knjiga, lekcija, stranica, PDF dokument, Word dokument, PowerPoint prezentacija (PPSX) sa zvučnim zapisom, video snimka, forum za rasprave te sve ostale aktivnosti za vrednovanje (online test, zadaća,). Vodite računa o BROJU RESURSAAKTIVNOSTI. Ukoliko radite prototip, odabrane tematske cjeline (dvijetri za e-tečaj koji se radi u parugrupama od 3 studenta) moraju sadržavati po svakoj cjelini barem 5 resursaaktivnosti (dakle ukupno za ove cjeline 1015 za 23 studenta). Umjesto prototipa možete pripremiti i cijeli tečaj, a minimalni broj je tada također 10 ili 15 ukupno za sve module. VAŽNO KNJIGALEKCIJA su obavezni elementi tečajeva, mora ih biti minimalno 2 ili 3 u tečaju (npr. 3 lekcije ili 3 knjige ili 2 lekcije i jedna knjiga,) MODULI Vezano uz BROJ MODULA, modul (u Moodle se naziva tema) je zaokružena cjelina koja obično odgovara tjednu (sjetite se Coursera tečajeva MOOC koje ste analizirali). Dakle, planirajte 1 modul  1 tjedan. ZADNJI TJEDAN neka bude tjedan za PROJEKTNI ZADATAK (E-AKTIVNOST). Međutim, opširnija e-aktivnost može se planirati dulje npr. tako da traje 2 tjedna, a tada je dovaljan jedan modul za oba tjedna (cijelu e-aktivnost). Nataša Hoić-Božić Links 1",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Erasmus natječaji 2025. Sveučilište u Rijeci 3. VELJAČE 2025. raspisuje NATJEČAJ ZA MOBILNOST STUDENATA U SVRHU STUDIJSKOG BORAVKA U ZIMSKOM SEMESTRU ILI CIJELOJ AKADEMSKOJ GODINI 2025.2026. u okviru programa Erasmus. Natječaj za ljetni semestar 2025.26. bit će objavljen u lipnju, iz proračunskih sredstava novog projekta. Podsjećamo da Sveučilište ima stalno otvorene natječaje iz budžeta Erasmus proračunske godine 2024.26.  Natječaj za mobilnost studenata u svrhu stručne prakse u programskim zemljama  Natječaj za mobilnost studenata u svrhu stručne prakse u svim trećim zemljama svijeta  Natječaj za mobilnost studenata u svrhu pohađanja Kombiniranih intenzivnih programa (Blended Intensive Programs  BIP) u programskim zemljama  Natječaj za mobilnost nastavnog i nenastavnog osoblja u programskim zemljama  Natječaj za mobilnost nastavnog i nenastavnog osoblja u svim trećim zemljama svijeta Detaljne informacije o Erasmus programu, tekstovi natječaja i prijavni obrasci objavljeni su na mrežnim stranicama Sveučilišta 1 2 Links 1 2",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Predaja praktičnog rada Predali ste zadacu - Predaja praktičnog rada Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Primijenjena multivarijatna analiza podataka za informatičare: Nadoknade DAP i PMAPI u 10:00 U ponedjeljak (27.01.) održati će nadoknade za kolegije DAP i PMAPI U ISTO VRIJEME, TJ. U 1000 SATI u učionici 366. Molim da provjerite na Merlinu da li ste na popisu i pazite na vrijeme nadoknade. S poštovanjem, Dejan Ljubobratović",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Programiranje za umjetnu inteligenciju: Predavanje 21.1. - odgoda Pozdrav svima, Sutra nećemo imati predavanja. U toku tjedna poslat ću vam upute za pripremu za ispit. Ana M.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Studentsko vrednovanje nastave u zimskom semestru ak. god. 2024./2025. Odbor za osiguravanje i unaprjeđivanje kvalitete Fakulteta informatike i digitalnih tehnologija provest će u zimskom semestru akademske 2024.2025. godine studentsko vrednovanje nastave ispunjavanjem on-line anonimnog ISVU upitnika za procjenu nastavnika i kolegija. Studenti upisani na određeni kolegij mogu pristupiti vrednovanju samo jednom, a anketa je dostupna u ISVU sustavuod danas, 20.1.2025. godine, do 12.9.2025. godine. Zasebno se vrednuju svi nastavnici (profesori i suradniciasistenti) koji su izvodili nastavu iz određenog kolegija. Vrednovanje nastave putem ISVU sustava provodi se aplikacijom Studomat na obrascu definiranom na razini Sveučilišta u Rijeci. Upitnik se može ispuniti i putem mobilnih uređaja. Upitnik je u potpunosti anoniman te se prilikom spremanja danih odgovora u bazu podataka ISVU oni ne povezuju s informacijama o studentu. Rezultati anketa bit će dostupni pojedinom nastavniku, voditeljici Odbora za kvalitetu i upravi Fakulteta informatike i digitalnih tehnologija. Cilj vrednovanja je procjena nastavnog rada nastavnika i suradnika određenog kolegija kao i angažmana studenta na kolegiju kako bi se na temelju procjena i sugestija mogao unaprijediti rad nastavnika i nastava. Ispunjavanjem ankete studenti daju svoj doprinos poboljšanju kvalitete rada nastavnika i izvođenja nastave. Molimo studente za iskreno i dobronamjerno odgovaranje na pitanja ankete i zahvaljujemo na suradnji! Odbor za osiguravanje i unaprjeđivanje kvalitete Fakulteta informatike i digitalnih tehnologija",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Project upload (FirstName1_LastName1_FirstName2_LastName2.zip) - 35 points Predali ste zadacu - Project upload (FirstName1LastName1FirstName2LastName2.zip) - 35 points Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Sažetak rasprava Poštovane kolegice i kolege, pripremio sam sažetak diskusija po tjednima koje su se odvijale u ovom semestru u sklopu kolegija. Lijep pozdrav, Filip Flajšman Privitak Sažetak rasprave.pdf",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: Global Game Jam 2025 Prosljeđujemo poziv Pozivamo Vas na Global Game Jam - vikend događaj izrade videoigara. Cilj je za jedan vikend (24.-26. siječnja) izraditi igru od nule. U Rijeci se Global Game Jam odvija već šestu godinu, a ovom prigodom ugošćuje nas Centar za tehničku kulturu u centru Rijeke. Ovo je savršena prilika za druženje i stvaranje, gdje kroz zabavan izazov sudionici testiraju svoje mogućnosti, a čime se jača Game-dev scena u PGŽ. Više o događaju može se pročitati (i prijaviti) ovdje 1 Links 1 Privitak ggjposter.png",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: E-tečajevi u moodle2test i konzultacije Lijepi pozdrav, u testnom Moodle sustavu otvoreni su vaši tečajevi te se čim prije prijavite u svoj (odnosno provjerite radi li vam prijava). Trebali bi biti u ulozi nositelja e-kolegija. Također sam i ja u istoj ulozi za sve otvorene tečajeve kako bi ih mogla pregledavati, ali i ev. pomoći pri izradi neke aktivnosti ili resursa. Podsjećam da je vaš zadatak da do 27.1.2025. pripremite obrazac za analizu i dizajn tečaja. Nakon što ga odobrim (odnosno dam komentare), možete početi izrađivati tečajeve do ispitnog roka na koji se prijavljujete. Planirane su i konzultacije koje će se održati 27.1.2025. u 10 sati u učionici O-365. Molim Vas da označite u anketi dolazite li. Iako konzultacije nisu obavezne, bilo bi dobro da s ispunjenim obrascem dođe barem jedan predstavnik svake grupe. Za one grupe koje ne dođu na konzultacije, pregledati ću predane obrasce i dati kratke komentare od utorka 28.1.2025. do kraja tjedna. Nataša Hoić-Božić",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] Referada: III. krug dodjele državnih stipendija u STEM područjima znanosti u ak. god. 2024./2025. Drage studentice, dragi studenti, objavljen je III. KRUG DODJELE DRŽAVNIH STEM STIPENDIJA. Liste i rang-liste dostupne su u mrežnoj aplikaciji 1. Obavijest o objavi listi i rang-listi dostupna je na poveznici 2 U skladu s odustajanjemodbijanjem stipendije crta se pomiče na sljedećim rang-listama  Više godine integriranog prijediplomskog i diplomskog studija - s obzirom na dva odustajanja od stipendije, crta se pomiče za tri mjesta (jednak broj bodova - 1 stipendija izvan kvote)  Više godine prijediplomskog studija i druga godina stručnog kratkog studija - s obzirom na to da je jedan student odbio stipendiju u II. krugu, crta se pomiče za jedno mjesto  Druga godina diplomskog studija - s obzirom na dva odustajanja od stipendije, crta se pomiče na za dva mjesta. Na ostalim rang-listama (Prva godina prijediplomskog, integriranog prijediplomskog i diplomskog te stručnog kratkog studija i stručnog prijediplomskog studija, Prva godina diplomskog studija) nema pomicanja crte jer je dodijeljena ukupna kvota stipendija. Srdačan pozdrav Links 1 2",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Odabir teme i suradnika Naziv tečaja Diskretna matematika kroz praktične primjene Autor Filip Flajšman Opis tečaja Tečaj je namijenjen srednjoškolcima (3. i 4. razred) i studentima prve godine fakulteta koji žele naučiti osnove diskretne matematike i njezinu praktičnu primjenu. Fokus je na rješavanju stvarnih problema kroz teme poput analize mreža, optimizacije resursa i algoritamskog razmišljanja. Namijenjen je za osobnu edukaciju, pripremu za studije iz računalnih i tehničkih znanosti te razumijevanje matematičkih koncepata u tehnološkom svijetu. Tečaj pruža osnovno znanje o grafovima, kombinatorici, vjerojatnosti i logici, uz praktične primjere i zadatke. Organiziran je kao MOOC tečaj.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Odabir teme i suradnika Naziv e-tečaja Uvod u programiranje uz Scratch - Stvaranje interaktivnih igara i animacija Autor Petra Tomić Kratki opis e-tečaja Tečaj je namijenjen učenicima 4. razreda osnovne škole. Cilj je učenike uputiti u osnove programiranja koristeći Scratch na zabavan način. Kroz jednostavne projekte učenici će usvojiti osnovne koncepte programiranja kao što su kretanje, petlje, uvjeti i varijable. Učenici će moći izraditi vlastitu igru, animacije i interaktivne projekte. Tečaj će također pomoći učenicima u razvijanju logičkog razmišljanja, kreativnosti, rješavanju problema i timskom radu.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Odabir teme i suradnika Naziv e-tečaja Upotreba digitalnih alata uz osvještavanje elektroničkog nasilja Autori Teja Gržinčić i Karolina Plantić Kratki opis tečaja Ovaj tečaj namijenjen je učenicima 6. razreda osnovnih škola, a njegov je cilj upoznati ih s upotrebom digitalnih alata poput Canva i GeoGebra. Učenici će, osim što će savladati rad s tim alatima, biti upoznati s ozbiljnošću i posljedicama elektroničkog nasilja. Kroz tečaj će istraživati ključne informacije o ovom problemu te, koristeći Canvu, kreirati plakat za podizanje svijesti i promicanje borbe protiv elektroničkog nasilja. Nadalje, izrađivati će grafikone sa zadanim podacima, a na kraju će se sve objediniti u e-portfolio.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Odabir teme i suradnika NAZIV E-TEČAJA HTML i CSS za početnike AUTOR Vedran Ivanković KRATKI OPIS E-TEČAJA HTML i CSS za početnike je e-tečaj za odrasle polaznike koji žele naučiti osnove web dizajniranja i izrade jednostavnih web stranica. Tečaj je idealan za sve koji nemaju prethodnog iskustva u web razvoju, premda može biti koristan i za one koji žele proširiti svoje znanje. Kroz ovaj tečaj, polaznici će naučiti osnovne HTML i CSS koncepte, od izrade jednostavnih elemenata i strukture stranice, pa do stiliziranja sadržaja i dizajniranja responzivnih web stranica. S obzirom da je ovo MOOC e-tečaj, polaznicima je omogućeno da uče vlastitim tempom, u bilo kojem trenutku, što će im dati mogućnost da gradivo savladaju bez pritiska.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: [1. godina prijediplomskog studija] Tjelesni Nastava iz Tjelesne i zdravstvene kulture neće se održati u tjednu od 13. do 17. siječnja zbog službenog odsustva nastavnika.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Odabir teme i suradnika NAZIV TEČAJA Osnovne programiranja - Scratch i Pictoblox AUTORI Marko Vrban, Dominik Jakovac KRATKI OPIS E-TEČAJA E-tečaj je namijenjen učenicima 7. razreda osnovne škole koji imaju priliku nadograditi svoje znanje u programiranju. Nastavnim kurikulumom informatike je obuhvaćeno osnovno programiranje u Scratchu. Riječ je o tečaju koji moderira nastavnik te se potiče aktivna uloga svih polaznika. Učenici, polaznici e-tečaja će imati priliku proširiti svoje znanje programiranja unutar alata Scratch te će se upoznati s novim alatom Pictoblox. Prvi dio tečaja se odnosi na programski alat Scratch, dok se drugi dio tečaja odnosi na alat Pictoblox. Oba alata funkcioniranju prema načinu slaganja blokova. Nakon što polaznici tečaja savladaju module u Scratchu, imati će priliku naučiti više o Pictobloxu i raznim dodacima koji programski alat nudi (npr. prepoznavanje lica, pomicanje tijela). Samim time, polaznici će imati priliku upoznati se i s osnovama umjetne inteligencije, zbog toga što su većina dodataka unutar Pictobloxa napravljena pomoću umjetne inteligencije.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Odabir teme i suradnika NAZIV E-TEČAJA Python za početnike AUTORI Luka Belušić, Damjan Kraljić KRATKI OPIS E-TEČAJA Tečaj Python za početnike osmišljen je kao uvodni MOOC e-tečaj za sve one koji žele savladati osnove programiranja u Pythonu koji je trenutno jedan od najpopularnijih jezika. Svrha tečaja je omogućiti polaznicima stjecanje osnovnih znanja i vještina programiranja u Pythonu bez obzira na prethodno iskustvo u programiranju. Kroz samostalno učenje polaznici će savladati teme kao što su rad s varijablama, kontrolne strukture (if-else, while), funkcije i ostale osnove Pythona. Budući da se radi o MOOC tečaju, on je u potpunosti samostalan i nije moderiran od strane nastavnika, čime omogućuje samostalno i fleksibilno učenje prema vlastitom rasporedu.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Odabir teme i suradnika Naziv e-tečaja Uvod u Flutter Autori Ivan Retkovac, Robert Samsa, Jani Štefanek Kratki opis e-tečaja Tečaj Uvod u Flutter namijenjen je studentima zainteresiranim za razvoj mobilnih aplikacija koristeći Flutter, popularni open-source framework. Svrha tečaja je pružiti studentima osnovna znanja o Flutteru i njegovim komponentama, te kako koristiti Dart jezik za razvoj aplikacija za Android i iOS. Tečaj je dizajniran za studente koji žele steći vještine u izradi modernih, visokokvalitetnih mobilnih aplikacija. Ovaj tečaj je MOOC e-tečaj i nudi uvodne informacije o Flutteru, temeljen na praktičnim vježbama i zadacima. Moderira ga nastavnik, a polaznici se potiču na aktivno sudjelovanje u forumima i diskusijama.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Dubinska analiza podataka: Prijava za drugi kviz MOLE SE STUDENTI KOJI PLANIRAJU IZAĆI NA 2. KVIZ IZ DAP-A DA SE ZBOG ORGANIZACIJE KVIZA PRIJAVE NA ZADANOM MJESTU NA MERLINU. DRUGI KVIZ ODRŽAT ĆE SE PREMA DINP-U 17. SIJEČNJA S POČETKOM U 10.15. SATI, U PROSTORIJI 365. Lijep pozdrav",
+    "label": 1
+  },
+  {
+    "text": "Predali ste zadacu - Colab 1,2,3 upload - 5 bodova Predali ste zadacu - Colab 1,2,3 upload - 5 bodova Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Colab 1 upload Predali ste zadacu - Colab 1 upload Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje i e-aktivnosti E-aktivnost nosi naziv Digitalni timski izazov  Projekt održivog grada i usmjerena je na razvoj timske suradnje, kritičkog razmišljanja i rješavanja problema. Polaznici će primijeniti znanja o održivom razvoju kako bi osmislili rješenja za konkretne izazove u urbanim sredinama. Aktivnost traje ukupno 120 minuta i odvija se u timovima od 3-4 člana. Tijekom uvodnog dijela, e-moderator polaznicima predstavlja koncept održivog grada kroz kratku prezentaciju ili video te im objašnjava ciljeve aktivnosti i pravila rada. U središnjem dijelu timovi biraju jedno područje održivog razvoja (npr. promet, energija ili ekologija) i koriste digitalne alate poput Google Docsa ili Canvae kako bi zajednički radili na projektima. Na kraju aktivnosti svaki tim prezentira svoje rješenje ostalim polaznicima, nakon čega slijedi diskusija i povratne informacije. E-moderator ima ključnu ulogu u pripremi materijala, pružanju podrške tijekom rada timova i moderiranju diskusije nakon prezentacija. Vrednovanje uključuje procjenu kvalitete i kreativnosti projekta, jasnoće prezentacije te doprinosa svakog člana tima, uz povratne informacije koje potiču polaznike na daljnje učenje.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje kod e-učenja Slažem se s kolegom i smatram da je vrlo važno koristiti raznovrsne metode vrednovanja kako bismo osigurali što kvalitetniji proces učenja. Posebno mi se sviđa ideja o vođenju digitalnog dnevnika jer takav pristup ne samo da pomaže u praćenju napretka polaznika, već im omogućuje i razvoj refleksivnih sposobnosti. Smatram da je to korak naprijed u stvaranju personaliziranijeg i fleksibilnijeg pristupa e-učenju. Također, ideja o uključivanju grupnih zadataka i virtualnih diskusija odlična je jer omogućuje polaznicima da kroz timski rad razviju socijalne i komunikacijske vještine. To je važan aspekt obrazovanja koji često ostaje zanemaren u e-okruženjima, a zapravo igra ključnu ulogu u pripremi polaznika za stvarne životne situacije. Posebno bih istaknuo i važnost završnih projekata koji, osim tehničkih znanja, uključuju kreativnost i praktičnu primjenu stečenih vještina. Prezentacija takvih projekata pruža priliku za vrednovanje šireg spektra kompetencija, uključujući i komunikacijske sposobnosti, što je sjajan način zaokruživanja cjelokupnog procesa učenja. Slažem se i s naglaskom na motivaciji polaznika. Smatram da su povratne informacije, bilo u obliku pohvala ili konstruktivnih savjeta, ključne za njihov napredak. Kroz takav pristup, koji uključuje personalizaciju, suradnju i podršku, možemo postići dugoročne pozitivne rezultate u obrazovanju na daljinu.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje kod e-učenja Smatram da vrednovanje kod e-učenja ima svoje prednosti i nedostatke. Konkretno, najveći izazov bi bio osigurati i provjeriti autentičnost znanja osobe. Provodio bi sigurno sumativna i formativna vrednovanja. Tijekom trajanja e-tečaja proveo bi jedno sumativno vrednovanje, koje bi se više odnosilo na teorijski pristup zadacima. Također, završni ispit bi provodio sumativnim vrednovanjem na način da polaznik tečaja mora izraditi te prezentirati svoj projekt. Također, značajan faktor bi imao način izrade čitavog projekta. Uz navedeno, tijekom čitavog e-tečaja pratio bi rad polaznika kao pojedinca te vodio bilješke o njegovom pristupu radu. Trenutno sam voditelj tečaja za djecu te provodim 2 formativna vrednovanja tijekom trajanja e-tečaja. S obzriom da je riječ o kvizovima s pitanjima višestrukog odabira, odmah neposredno nakon vrednovanja s polaznikom prolazim kroz sva pitanja, zbog toga što mi je glavni cilj da polaznik ima stečene sve ishode. Smatram kako nedostatak motivacije može biti veliki faktor prilikom vrednovanja na daljinu te se uvijek trudim dodatno sve pojasniti i objasniti. Ukoliko je moguće i s pozitivnim potrkepljenjima, prilikom odličnogvrlo dobrog rješavanja kviza.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje i e-aktivnosti E-aktivnost (engl. e-tivity) uključuje učenike koji komuniciraju međusobno i s učiteljem ili voditeljem predmeta (e-moderatorom) u online okruženju uz pomoć digitalnih alata koji podržavaju suradnički rad s ciljem izvršavanja određenog zadatka. Za svoje buduće tečajeve definitvno bi provodio više od jednog, zbog toga što smatram kako je vrlo dobro da jedna aktivnost bude isključivo teorijska, dok druga e-aktivnost može biti praktičan rad ili seminar. Prilikom e-aktivnosti kojom bi se provjeravalo teorijsko znanje, koristio bi kviz s nekoliko pitanja. Pitanja bi bila postavljena da se traži upis kratkog odogvora, ali i jedno do dva pitanja esejskog tipa odgovora. Također, uključio bi pitanja višetrukog odabira s višetočnih odgovora. Također, uključio bi i e-aktivnost izrade seminara u grupi (do 2 studenta). Također, seminar bi provjerio putem alata Turnitin te bi svaki polaznik trebao ispuniti kratki obrazac u kojem bi trebao navesti svoj doprinos timu te što je napravio. Također, bilo bi poželjno ocjeniti i suradnika.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje i e-aktivnosti Slažem se s Vašim mišljenjem u vezi kvizova, wiki stranice i online testova oni su itekako važni, ali ne trebamo ih gledati kao cjelovito znanje, oni mogu potvrditi teorijsko znanje ali ne mogu potvrditi praktično znanje. Pokazao si samo invidualne aktivnosti, po meni uključivanje timskih aktivnosti je isto znatno bitno, tim putem studenti razvijaju dodatne vještine poput komunikacije, rješavanje problema, vođenja rasprava poput ove i slično. AKTIVNOSTI ZA BUDUĆI E-TEČAJ Aktivnosti koje bih ja uključio u svoj e-tečaj su za praktični dio pisanje seminara, a za teorijski dio kvizovi. Pisanjem seminara student ili studenti(timski rad) prikazuju svoje razumijevanje i sposobnosti koje su stekli kroz seminar, dok kod kvizova studenti mogu provjeriti njihovo znanje kroz semestar.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje i e-aktivnosti Aktivnosti koje bih voljela uključiti u svoje budući tečaj su pisanje seminara, wiki alat za suradničko pisanje i forumi za raspravu. Smatram da je pisanje seminara vrlo korisno polaznicimastudentima jer im omogućava detaljno istraživanje tema koje ih zanimaju te ih potiče na jasno i razumljivo predstavljanje svojih ideja u pisanom obliku. Dok ukoliko se radi o grupnom pisanju seminara smatram da bi bilo korisno dodati zahtjev da studentipolaznici specificiraju svoj doprinos seminaru. Wiki alat za suradničko pisanje mi se čini vrlo praktičnim, posebno za grupne radove. Ovaj alat omogućava uvid u povijest uređivanja, što olakšava profesorima praćenje tko je objavio koji dio i u koje vrijeme. Samim time nastavnik može preciznije i bolje vrednovati studenatapolaznika. Također bih u svoj e-tečaj uključila forume za raspravu. Smatram da su forumi odličan način za studentepolaznike da izraze svoja mišljenja, podijele novosti i zanimljivosti koje su pronašli na temu te da razmjenjuju ideje s drugim sudionicima. Na taj način bih poticala aktivno sudjelovanje studenatapolaznika.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje i e-aktivnosti Mislim da je važno uključiti što više e-aktivnosti u tečaj kako bi dali studentima poticaj za konstantno učenje i napredak kroz kolegij. Međutim, sam sadržaj također ovisi o kolegiju i treba dobro procijeniti što se sve može ukomponirati u samu izradu e-tečaja. Osobno smatram da je ukomponiranje kvizova kroz različite teme kolegija jedan od najboljih primjera da se studente uključi u konstantno učenje jer preko tog formata se pojmovi mogu najlakše povezati sa time što se traži od gradiva. Također, wiki je jedan od dobrih primjera kako da studenti izrade svoju stranicu gdje pišu dojmove o kolegiju i svojim doprinosom potvrđuju sve što su naučili do sada. Naravno, to su sve e-aktivnosti koje nose bodove ali nisu glavni dio kolegija, uvijek treba uključiti online testove (uživo) da studenti potvrde svoje znanje koje se onda boduje na temelju onoga što su naučili i zapamtili. Ove tri aktivnosti bih najviše uključio u svoj e-tečaj, na način sličan koji je primijenjen i na ovom kolegiju.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje i e-aktivnosti E-aktivnosti i vrednovanje Kroz dizajn e-aktivnosti i vrednovanje važno je postići ravnotežu između testiranja teorijskog znanja, razvijanja praktičnih vještina te angažiranja studenata na kreativnom i kritičkom razmišljanju. Osmišljavanjem aktivnosti koje potiču studente na aktivno sudjelovanje i primjenu naučenih koncepata, možemo osigurati dublje razumijevanje teme i sposobnost rješavanja stvarnih problema. Također, važno je omogućiti studentima različite oblike e-aktivnosti kako bi se zadovoljile njihove različite potrebe i stilovi učenja, od samostalnog rada na projektima do timskih suradnji i diskusija. Kada je riječ o vrednovanju, potrebno je koristiti pravedne i transparentne metode ocjenjivanja koje će studentima jasno pokazati na koji način su njihovi napori procijenjeni. Rubrike za ocjenjivanje koje sadrže konkretne kriterije za svaku aktivnost mogu pomoći u ovom procesu jer studentima omogućuju da razumiju što se očekuje i kako mogu poboljšati svoj rad. Povratne informacije trebaju biti konstruktivne, konkretne i usmjerene na poboljšanje jer omogućuju studentima da prepoznaju svoje jake strane, ali i ono što trebaju unaprijediti. Smatram da sve ove komponente, od dizajniranja e-aktivnosti do vrednovanja, trebaju biti usmjerene na postizanje ciljeva učenja i pomoći studentima ne samo da steknu znanje, već i razviju vještine koje će im koristiti u stvarnim poslovnim i obrazovnim kontekstima. Kao primjer e-aktivnosti navela bih Kviz. Kviz se sastoji od nekoliko tipova pitanja te se pomoću njega može provjeriti znanje studenata. Primer alata za provedbu Kviza je Moodle. Kviz može biti integriran u sustav s automatskim povratnim informacijama. Moodle nam omogućava postavljanje vremenskih ograničenja, pitanja koja se mijenjaju za svakog studenta (randomizacija) te olakšava praćenje uspjeha studenata. Kviz je učinkovita e-aktivnost koja omogućava studentima da pokažu svoje znanje. Jasno postavljeni ciljevi, pravilno strukturirani zadaci i transparentno vrednovanje čine kviz snažnim alatom za vrednovanje učenja u online okruženju. Isto tako pružanje povratnih informacija nakon kviza može pomoći studentima da unaprijede svoje znanje i pripreme se za buduće izazove.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje i e-aktivnosti E-aktivnosti omogućuju učenicima sudjelovanje u rješavanju zadataka na bazi aktivne komunikacije i suradnje s nastavnikom  voditeljem tečaja  drugim učenicima u digitalnom okruženju. Odvajaju se od tradicionalne nastave (predavač predaje neku temu, a učenici slušaju) i koriste informacijsko komunikacijsku tehnologiju za aktivnosti koje će se pravilno integrirati u predodređeno okruženje nastave. Primje takve točne integracije bio bi vlastito istraživanje neke teme i stavljanje informacija u WIKI, koji će se kasnije moći koristiti za učenje informacija koje učenici nisu usvojili. Ukoliko je potrebna zajednička komunikacija može se pored toga uvesti forum za raspravu u kojemu će još lakša biti komunikacija, iako wiki može u sebi imati direktnu komunikaciju ljudi koji njoj doprinose. KVIZ je jedna od e-aktivnosti s kojom se može ispitati znanje učenika, no izazovno ga je napraviti balansiranog i zatjeva više iteracija kako bi se postigao dobar omjer prolazaka i padova. Moodle nudi neke pomoći pri tome, tako da stvaratelji kviza imaju uvid u to koliko je pitanje zahtjevno, te mogu promjeniti ubuduće bazirano na tome. Osim toga pitanja se može spremiti u baze koje će ih čuvati u kategorijama, te se tako može postići raznovrsnost pitanja i osigurati da je tema koju se ispituje dobro i u cjelosti obrađena.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje i e-aktivnosti  VREDNOVANJE I E-AKTIVNOSTI E-aktivnosti pružaju učenicima priliku za aktivno sudjelovanje u rješavanju zadataka kroz međusobnu komunikaciju i suradnju s nastavnikom ili voditeljem tečaja u digitalnom okruženju. Slažem se s kolegicom Tejom da one ne samo da omogućuju usvajanje novih znanja, već značajno doprinose razvoju ključnih vještina poput kritičkog razmišljanja, timskog rada i rješavanja problema. Stoga je važno osmisliti jasne, objektivne i motivirajuće kriterije vrednovanja koji će kombinirati kvantitativne i kvalitativne aspekte rada, čime se osigurava pravedno i poticajno okruženje za učenike. Pri kreiranju e-aktivnosti za buduće tečajeve ključno je da se aktivnosti prilagode konkretnim ciljevima predmeta. Primjerice, u tečajevima koji zahtijevaju rad s digitalnim alatima, učenici bi mogli istraživati njihove funkcionalnosti, analizirati prednosti i osmišljavati inovativne primjere njihove primjene. Aktivnosti poput suradničkog rada na Google Dokumentima omogućile bi razvoj kreativnosti, timskog duha i tehničkih vještina, dok bi se vrednovanje temeljilo na jasnoći dokumentacije, relevantnosti ideja i učinkovitosti suradnje. Izvrstan primjer e-aktivnosti može biti projektni zadatak u kojem učenici, podijeljeni u timove, analiziraju online tečajeve na platformama poput MOOC-a koristeći wiki za zajedničku dokumentaciju. Ovakve aktivnosti potiču razmjenu ideja, razvoj kritičkog mišljenja i kreativnost, a detaljno osmišljene rubrike omogućuju objektivno vrednovanje rada. Uz to, rasprave na forumima o praktičnoj primjeni digitalnih alata dodatno bi produbile razumijevanje sadržaja i potaknule učenike na argumentirano iznošenje vlastitih stavova, čime e-aktivnosti postaju vrijedan alat za unapređenje online nastave.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje i e-aktivnosti VREDNOVANJE I E-AKTIVNOSTI E-aktivnosti su ključni dio suvremenog e-učenja, jer omogućavaju aktivno sudjelovanje učenika, potiču suradnju i kreativnost te olakšavaju praćenje i vrednovanje ostvarenosti ishoda učenja. Kroz njih učenici ne samo da stječu znanje nego ga i primjenjuju, razvijajući pritom vještine poput kritičkog mišljenja, rješavanja problema i timskog rada. Vrednovanje e-aktivnosti treba biti pažljivo osmišljeno, kombinirajući kvantitativne i kvalitativne aspekte, uz jasno definirane kriterije koji osiguravaju objektivnost i potiču kvalitetan rad. E - aktivnosti koje se mogu koristiti u tečajima su raznolike, ovisne o namjeni tečaja. Ukoliko je cilj tečaja rad s nekim od dostupnih alata tada je cilj osposobiti učenika za korištenje njime, ali i upoznavanje mogućnosti njegove primjene. Nakon analiziranja prednosti, i značajki alata učenici mogu osmišljavati aktivnosti koje uključuju te alate. Pri tome bi se vrednovanje moglo osmisliti na način sličan sljedećem jasno su definirane prednosti i nedostaci te konkretne primjene (kvaliteta analize i primjenjivosti alata), predložene aktivnosti su relevantne i inovativne (kreativnost u osmišljavanju e-aktivnosti) , rad je dobro dokumentiran (referenciranje izvora, jasnoća i točnost opisa), koristi se stručna terminologije i pravopis. Primjeri dobre prakse e - aktivnosti su i izrada projektnog rada, ali i vođenje e-portfolija s osvrtima na izradu. Ovaj način rada bi se mogao koristiti ako je e-aktivnost namijenjen za individualnu izradu. Nadalje, raspravama se mogu u aktivnost uključiti brojni sudionici kao i složenijim projektnim zadacima koji zahtjevaju osmišljavanje, razmjenu ideja i dokumentiranje izrade. Prilikom aktivnosti koja uključuje više sudionika može se vrednovati rezultat aktivnosti cijele skupine, ali i doprinos pojednica uz vrednovanje tehničkog aspekta projekta.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Vrednovanje i e-aktivnosti Lijepi pozdrav, u proteklom tjednu samo se nekoliko studenata uključilo u raspravu i iznijelo svoja promišljanja o FORMATIVNOM I SUMATIVNOM VREDNOVANJU kod e-učenja. Pozivam i ostale da nastave raspravljati o ovoj temi i podsjećam da je poželjno komentirati i stavove iznesene u porukama ostalih studenata. Korištenje ONLINE TESTOVA je aktivnost koju bi trebalo koristiti kod e-tečajeva (kombiniranjem različitih vrsta pitanja, uključujući i esejska pitanja). Međutim, važni su i projekti ili projektni zadaci (na ovom predmetu ih nazivamo E-AKTIVNOSTIMA). U NASTAVITEČAJEVIMA INFORMATIKE upravo su oni nezamjenjivi. Zamislite kako bi izgledalo da online testom, esejem ili usmenim ispitivanjem provjeravamo usvojenost ishoda koji se odnosi, primjerice, na dizajniranje i izradu responzivnog web sjedišta ili izradu Moodle e-tečaja! Bez projektazadatkapraktičnog radaseminarae-aktivnosti (možemo to zvati različito u različitim predmetimakolegijimae-tečajevima) pri kojem će učenik (individualno ili timski) dizajnirati, napraviti i objaviti na web serveru svoje responzivno web sjedište ili u Moodleu izraditi e-tečaj, kao nastavnici nećemo provjeriti da li je taj ishod ostvaren. Ovo je važno imati na umu kada u siječnju započnete s planiranjem i dizajniranjem vaših vlastitih e-tečajeva koji će obavezno uključiti i barem jednu e-aktivnost. U NASTAVKU DISKUSIJE (podsjećam da rasprava završava 23.12.2024.), ukoliko već niste, detaljnije proučite 11. poglavlje o e-aktivnostima, RAZMISLITE KOJE BI E-AKTIVNOSTI DIZAJNIRALI ZA VAŠE BUDUĆE TEČAJEVE (završni ispit iz predmeta) te međusobno razmijenite ideje o tome. Vodite računa da e-aktivnost osmišljavamo pomoću OBRASCA (str. 148 udžbenika) te da u prilogu imate nekoliko PRIMJERA detaljno opisanih e-aktivnosti. Ovdje u forumu ne morate uključivati tablice te vam za sada obrasci služe kako bi se prisjetite elemenata koji bi trebali biti uključeni u opis e-aktivnosti. Nataša Hoić-Božić",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Objavljen natječaj za dodjelu stipendija za izvrsnost u 2024./2025. Sveučilište u Rijeci objavilo je NATJEČAJ ZA DODJELU STIPENDIJA ZA IZVRSNOST U 2024.2025. AKADEMSKOJ GODINI (poveznica 1). Mjesečni iznos stipendije je 250,00 EUR, a isplaćuje se 10 mjeseci. Prijave na natječaj otvorene su DO 9. SIJEČNJA 2025. GODINE. Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje kod e-učenja Kao nastavnik ovome izazovu trebalo bi najbolje pristupiti osmišljavanjem odgovarajućih strategija i alata za autentifikaciju odrađenog zadatka. Na primjer, upotreba sustava za detekciju plagiranja može pomoći u kršenju autorskih prava. Osim toga može se primjeniti metoda kao što su usmena online ispitivanja putem videokonferencija. Tim putem može se pružiti dodatna zaštita da učenici ne pomažu drugim učenicima. Osim toga, jasni kriteriji vrednovanja i pouzdane informacije mogu smanjiti greške i poboljšati odnos učenika prema ostvarenju svoga zadatka. . Kako bi uspješno proveo vrednovanje kod e-učenja, nastavnik mora poznavati različite metode vrednovanja te digitalne alate koji omogućuju njihovu primjenu. Po meni najteže je osigurati sve moguće alate da se spriječi plagiranje ili prepisivanje kod učenika, zato što je fizički nadzor limitiran. Formativno vrednovanje ima prednost jer usmjerava nastavnika da identificira područja u kojima je učeniku potrebna dodatna podrška, osigurava poučavanje na prilagođen način i promiče aktivno uključivanje učenika na poboljšanje znanja. Učenici dobivaju jasne upute o tome kako razviti svoje vještine i znanje i djeluje kao bolji motivator za učenike. Istraživanja pokazuju da većina učitelja cijeni vrijednost formativnog vrednovanja i provodi ga kroz različite strategije u učionici na primjer rubrike za vrednovanje, učitelji izrađuju detaljne rubrike u kojem definiraju kriterije uspiješnosti za zadatak ili aktivnost, time pokazuju učenicima što je točno potrebno napraviti. Formativno vrednovanje služi nastavnicima za planiranje budućeg poučavanja, a učenicima za dobivanje poticaja i usmjeravanja u učenju Dok sumativno vrednovanje odnosi se na procjenu učeničkih postignuća na kraju određenog razdoblja, poput na primjer kraja semestra. Njegova svrha je da svim učenicima bude isto za sve, te se na kraju semestra dodjeljuju bodovi ili ocjena Provodi se po završetku izvođenja predmeta ili jedne njegove cjeline, a rezultira dodjeljivanjem bodova ili ocjene. Oba pristupa su korisna u obrazovanju, sumativno vrednovanje pruža procjenu postignuća učenika i služi kao zasluga na kraju semestra. Dok kod formativnog vrednovanja omogućuje se kontinuirana podrška i prilagodba tijekom učenja. Najbolje je koristiti oba pristupa, time bi mogli osigurati cjelovitu i kvalitetnu evaluaciju učenika. U svojem tečaju idealno bih koristio kombinirano vrednovanje kako bi osigurao kvalitetnu procjenu znanja. za formativno bih imao samoprocjenu svog znanja, dok za sumativno bih koristio završni ispit u kojem bi učenici mogli dobiti završnu ocjenu.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje kod e-učenja Vrednovanje kod e-učenja Smatram da je nastavnicima prilikom vrednovanja kod e-učenja najveći izazov odabir prikladne metode za vrednovanje gradiva. Iz razloga što svako gradivo zahtjeva drukčiji pristup vrednovanju, npr. teorijsko gradivo može se provjeravati online testovima ili esejskim pitanjima, dok bi se gradivo poput programiranja moglo provjeravati projektnim zadacima, analizom koda ili rješavanjem problema u odgovarajućem alatu ili okruženju. Samim time nastavnik mora odabrati onu metodu koja najbolje odgovora postavljenim ishodima učenja. Složila bih se s kolegama da je najzahtjevnija subjektivna metoda. Ova metoda kako je navedeno u materijalima sadržava procjenjivanje odgovora i rada učenika na temelju usmenih odgovora, pisanih i praktičnih radova, izlaganja, prezentacija i sličnih aktivnosti. Ovakva metoda zahtjeva od nastavnika da ulaže puno više vremena od objektivne metode, jer nastavnik mora detaljno proučiti svaki učenikov odgovor, rad ili izlaganje, pritom težiti što većoj objektivnosti prilikom ocjenjivanju i voditi računa prilikom ocjenjivanja da svaki učenik ima različitu razinu znanja, stilove učenja i način prikaza svojeg znanja. Osim toga nastavnik mora dati kvalitetnu povratu informaciju učeniku kako bi mu ona bila konstruktivna i korisnika za njegovo daljnji napredak. Za svoj tečaj koristila bih samoprovjere nakon svake lekcije kako bi polaznici mogli pratiti vlastiti napredak te dobiti uvid u tip pitanja koja ih očekuju na online testovima. Samoprovjere bi služile kao alat za redovito ponavljanje gradiva i procjenu znanja, ali ne bi nosile ocjenske bodove i bile bi stalno dostupne polaznicima kako bi u bilo kojem trenutku mogli provjeriti svoje znanje. Što se tiče sumativnog vrednovanja, ono bi se provodilo isključivo putem online testova koji bi bili unaprijed najavljeni. Online testovi sadržavali bi pitanja dvočlanog izbora(točnonetočno), pitanja višestrukog izbora s jednim ili više točnih odgovora, povezivanjem pojmova i pitanja na nadopunjavanje. Kako bih smanjila mogućnost prepisivanja, testovima bih dodala vremensko ograničenje i povećala bazu pitanja, čime bih smanjila vjerojatnost da više polaznika dobije ista pitanja. No izbjegava bih uvođenje opcije zabrane vraćanja na prethodna pitanja zato što to može dovesti do povećanja stresa i zaokruživanja krivog odgovora kod polaznika čak i kada znaju točan odgovor. Iz vlastitog iskustva znam da se ponekad u trenutku ne mogu sjetiti odgovora, ali bih ga se kasnije prisjetila. Također, opcija povratka omogućila bi rješavanje lakših pitanja najprije, a zatim vraćanje na teža, čime bi se smanjio stres i povećala točnost odgovora. Završni ispit bi bio u obliku seminara ili projektnog zadatka, koji bi polaznici naknadno branili usmeno. Time bih provjerila njihovo praktično znanje, primjerice kroz izradu mobilne ili web aplikacije, koju bi potom prezentirali i objasnili, pokazujući pritom i teorijsko razumijevanje. Dok ukoliko se provjerava samo teorijsko znanje koristila bi testove koji bi sadržavali esejska pitanja.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje kod e-učenja Vrednovanje kod e-učenja Smatram da najveći izazov u vrednovanju kod e-učenje leži u objektivnosti, osobito kada se vrednuju zadaci koji uključuju kreativnost i samostalni rad studenataučenika. Budući da je interakcija sa studentima ograničena na online okruženje, teško je procijeniti sve aspekte njihovog učenja, posebno u kontekstu praktičnih zadataka koji zahtijevaju korištenje različitih alata i resursa. Također, neki studenti možda nemaju pristup naprednijoj tehnologiji, što može utjecati na kvalitetu njihovih zadataka. Kao najzahtjevnija metoda vrednovanja smatram da je ocjenjivanje rada u grupama. Iako je suradnja među studentima vrlo važna, u online okruženju je teško pratiti tko je zapravo radio na zadatku, a tko je samo prepisivao ili prepuštao zadatke drugima. Npr. neki studenti možda neće dati svoj velik doprinos kod zadanog zadatka, a mogu biti ocijenjeni kao ostali članovi koji su uložili svoj trud i vrijeme na zadatak. Teško je odrediti tko je aktivno sudjelovao u izradi zadatka, a tko je jednostavno čekao da netko drugi završi posao. Zbog toga mislim da je nužno postaviti jasna pravila i koristiti dodatne alate za praćenje aktivnosti. Upute i očekivanja od učenika tijekom vrednovanja trebaju biti jasna i potpuna. Potrebno je osigurati da svi učenici na vrijeme i istoznačno razumiju upute i kriterije vrednovanja. Za buduće e-tečajeve i hibridnu nastavu najviše bih se oslonila na kombinaciju kvizova, individualnih zadataka i samoocjenjivanja. Kvizovi su odličan alat za brzo i objektivno ocjenjivanje temeljnog znanja, dok individualni zadaci poput eseja omogućuju dubinsko vrednovanje razumijevanja i sposobnosti analize. Samoocjenjivanje je korisno jer omogućava studentima da prepoznaju vlastite snage i slabosti, što je važno za njihov daljnji razvoj. Smatram da je i formativno i sumativno vrednovanje jednako važno te da ih se treba oboje primjeniti. Formativno ocjenjivanje koje se koristi tijekom cijelog procesa učenja kako bi se pratilo napredovanje studenataučenika, omogućujući im povratne informacije koje im pomažu u daljnjem učenju. Smatram da je ovo izuzetno korisno u e-učenju jer studentimaučenicima omogućuje da redovito evaluiraju svoje znanje i poboljšaju se prije završne ocjene. Dok sumativno ocjenjivanje koje se koristi na kraju određenog razdoblja u obliku završnog ispita ili projekta daje konačnu ocjenu uspješnosti studentaučenika. Kao vlastiti primjer navela bih korištenje Kahoota u svojoj nastavi kao alata za formativno ocjenjivanje koji mi pomaže u praćenju napretka učenika i nudi jasnu povezanost s drugim metodama vrednovanja. Najčešće ga koristim nakon obrade nastavnog gradiva za ponavljanje nastavnih sadržaja. Kao primjer formativnog ocjenjivanja navela bih TestMoz koji primjenjujem u svojoj nastavi. TestMoz je vrlo koristan alat za izradu online testova, kvizova i zadataka koji omogućuje brzu povratnu informaciju. Nakon što sa učenicima obradim nastavnu cjelinu, pripremim im test u TestMozu koji sadržava pitanja različitog tipa. Nakon što učenici riješe test imam jasan uvid u njihove odgovore, broj bodova i postotak koji su ostvarili na testu. Isto tako kao jedna od prednosti kod navedenog alata bih rekla da je ta što ukoliko sustav ne prizna učenicima odgovore (a odgovor je točan) mogu naknadno dodijeliti bodove. Svaki test od učenika prije nego što dobiju konačnu ocjenu provjerim. Isto tako učenici imaju uvid u pitanja i svoje odgovore te mogu vidjeti gdje su pogriješili. Dobiju povratnu informaciju. Uz informaciju o bodovima i uspješnosti na testu u cjelini treba omogućiti učeniku da analizira vlastiti test, pitanje po pitanje. Posebno je važno da se kod samoprovjera za svako pitanje na koje učenik nije odgovorio točno prikaže ispravan odgovor te da se učenik uputi na sadržaje za učenje koje treba ponoviti jer će se na takav način osigurati kvalitetnije učenje.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje kod e-učenja VREDNOVANJE KOD E - UČENJA Smatram da je ova tema izuzetno važna za mene kao buduću nastavnicu, ne samo u kontekstu mogućnosti izrade online tečajeva i vrednovanja u njihovom sklopu, već i u situacijama kada se nastava odvija online, bilo asinkrono ili sinkrono. Jedan takav primjer je razdoblje pandemije koronavirusa, kada je nastava na daljinu postala dominantan oblik obrazovanja. Ovo iskustvo pokazalo je važnost promišljenog pristupa vrednovanju, prilagođenog specifičnostima online okruženja. Složila bih se s kolegama da jedan od najvećih izazova u online vrednovanju predstavlja osmišljavanje odgovarajućih metoda vrednovanja. Na nastavniku je da osigura da odabrane metode budu u skladu sa zahtjevima gradiva i odgovaraju postavljenim ishodima učenja. Kako je navedeno U nastavi koja se provodi online, jednako kao i kod nastave u učionici, potrebno je osigurati da metode vrednovanja odgovaraju postavljenim ishodima učenja. Da bi uspješno proveo vrednovanje u e-učenju, nastavnik mora poznavati različite metode vrednovanja te digitalne alate koji omogućuju njihovu primjenu. Dakle, zadatak nastavnika je složen, potrebno je pažljivo osmisliti metode vrednovanja koje će biti učinkovite i pravične, odabrati odgovarajuće alate te osmisliti konkretne načine provedbe vrednovanja. Kada govorimo o vrednovanju, važno je razlikovati FORMATIVNO i SUMATIVNO VREDNOVANJE, jer svaki oblik nosi svoje izazove i specifičnosti. Smatram da sumativno vrednovanje predstavlja veći izazov u smislu organizacije, posebno u online okruženju. Nastavnik mora razmišljati o načinima sprječavanja prepisivanja i plagiranja te osigurati transparentnost i pravednost u ocjenjivanju. S druge strane, formativno vrednovanje složenije je u fazi osmišljavanja. Nastavnik treba pronaći odgovarajuće metode koje će omogućiti kvalitetnu povratnu informaciju o napretku učenika. Formativno vrednovanje iznimno je važno za praćenje rada i napretka učenika. Omogućuje korištenje različitih alata i metoda, kao što su kvizovi, vršnjačke procjene, samoprocjene, izlazne kartice i slično. Takvi pristupi pružaju nastavniku detaljniji uvid u razumijevanje gradiva kod učenika, omogućujući mu da prilagodi nastavni proces potrebama pojedinaca i razreda. Tijekom svog studija najčešće sam se susretala sa sumativnim vrednovanjem, no kao buduća nastavnica u osnovnoj ili srednjoj školi smatram da je formativno vrednovanje barem jednako važno. Ono pruža nama, nastavnicima, mogućnost kontinuiranog praćenja napretka svakog učenika i razreda u cjelini. Uz to, formativno vrednovanje može otkriti dijelove gradiva koje učenici slabije razumiju ili u kojima nastaju poteškoće, što nam omogućuje pravovremenu intervenciju. Ukoliko se nastava odvija u online okruženju, formativno vrednovanje nam može pružiti uvid koliko učenici prate nastave, jesu li aktivni sudionici ovog procesa ili pasivni promatrači. Prema donesenim zaključcima možemo izmjeniti metode rada i prilagoditi se zahtjevima učenika. Za učenike, formativno vrednovanje ima višestruke koristi, ono im daje im povratnu informaciju o njihovoj spremnosti za sumativno vrednovanje, ali ih istovremeno uči kako procijeniti vlastito znanje. Na primjer, metode poput vršnjačke procjene ili samoprocjene potiču učenike na razvoj kritičkog mišljenja i sposobnosti objektivne procjene vlastitih i tuđih postignuća. Takvi alati ne samo da podržavaju proces učenja, već i razvijaju važne vještine koje će učenicima koristiti u budućnosti.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje kod e-učenja  VREDNOVANJE KOD E-UČENJA U ulozi nastavnice smatram da je najveći izazov vrednovanja kod e-učenja osiguravanje objektivnosti i pravednosti, posebno kod subjektivnih metoda procjene znanja poput usmenih ispitivanja, eseja i praktičnih zadataka. Takve metode su vremenski zahtjevne i sklone nejednakom ocjenjivanju zbog razlika u interpretaciji ili osobnim stavovima ocjenjivača. Iako su korisne za procjenu viših razina znanja, poput analize i stvaranja, pa ih je zbog navedenih nedostataka potrebno kombinirati s metodama za objektivno mjerenja znanja. Također, ključno je kombinirati formativno i sumativno vrednovanje, jer svako ima svoju ulogu u cjelovitoj procjeni. Formativno vrednovanje provodi se tijekom nastavnog procesa, usmjereno je na praćenje napretka učenika. Pri rješavanju testova ili kvizova za samoprovjeru znanja učenike se ne ocjenjuje, već im se dostavlja povratna informacija (numerička, opisna) o tome koliko su zaista naučili gradivo, ali i o izazovima koji ih očekuju. Primjer su online kvizovi poput Kahoota, koji omogućuju učenicima da uoče svoje pogreške i unaprijede znanje. Važno je da povratna informacija usmjerava učenike u budućem učenju. S druge strane, sumativno vrednovanje provodi se na kraju e-kolegija ili nekog njegova dijela kako bi se ocijenila postignuta razina znanja. Primjer su završni ispiti koji kombiniraju praktične zadatke, projekte i eseje, osiguravajući uravnoteženu procjenu stečenih znanja i vještina. Ostvareni rezultati koriste i nastavniku kao povratna informacija o uspješnosti učenika (i pojedinaca i grupe).  Stoga, kombinacija subjektivnih i objektivnih metoda te formativnog i sumativnog vrednovanja omogućuje pravedniju i kvalitetniju procjenu, istovremeno podržavajući učenike u njihovom učenju i razvoju. U budućim e-tečajevima planiram kombinirati formativno i sumativno vrednovanje kako bih osigurala kvalitetnu i pravednu procjenu znanja. Formativno vrednovanje koristila bih za aktivnosti poput vršnjačkog vrednovanja prezentacija ili samovrednovanja putem izlaznih kartica, što učenicima daje priliku za kontinuirano učenje i napredak. Sumativno vrednovanje, poput završnih projekata ili eseja, koristila bih za konačnu ocjenu na kraju tečaja. Vjerujem da kombinacija subjektivnih i objektivnih metoda omogućuje pravednu procjenu te dublje razumijevanje i primjenu znanja, dok istovremeno pruža učenicima motivaciju za učenje i povratne informacije koje im pomažu u daljnjem razvoju.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Vrednovanje kod e-učenja Najteži izazov vrednovanja kod e-učenja je definitivno odabir pravilnog načina vrednovanja ovisno o vrsti kolegija jer naravno da će se npr. kolegij u kojem se uči o programiranju drugačije vrednovati nego tečaj o kuhanju. Kroz moje vrijeme kao student više sam se susretao sa sumativnim vrednovanjem nego sa bilo kojim drugim načinom. Formativno vrednovanje definitivno zvuči da ga je teže provesti na nastavi provodi se tijekom izvođenja nastavnog procesa i usmjereno je na prikupljanje informacija o napredovanju učenika, identificiranje eventualnih poteškoća prilikom učenja i donošenje odluka o budućim aktivnostima poučavanja. Formativno vrednovanje služi nastavnicima za planiranje budućeg poučavanja, a učenicima za dobivanje poticaja i usmjeravanja u učenju. U procesu pružanja povratnih informacija nastavnik ne smije koristiti sarkazam niti omalovažavati učenika. Formativno vrednovanje ne koristi se u svrhu rangiranja učenika niti dodjeljivanja ocjene ili ocjenskih bodova (koji se koriste u izračunu završne ocjene). Iznimno se za formativne aktivnosti bodovi mogu dodijeliti kao nagrada učenicima za aktivnost (primjerice kao dodatni bodovi). Kao što vidimo iz opisa u udžbeniku, nastavnik prati aktivnosti i napredak učenika tokom tečaja i u slučaju problema pomaže učeniku da prijeđe iste. To zahtjeva puno više vremena i truda od strane nastavnika jer se mora posvetiti svakom učeniku zasebno, dok je kod sumativnog vrednovanja cijeli proces zamišljen da bude isti za sve Provodi se po završetku izvođenja predmeta ili jedne njegove cjeline, a rezultira dodjeljivanjem bodova ili ocjene. Postupci sumativnog vrednovanja, kriteriji i način bodovanja moraju učenicima biti dostupni, najavljeni unaprijed i navrijeme. Dok sumativno vrednovanje za neki predmet u pravilu provodi nastavnik, u proces formativnog vrednovanja poželjno je uključiti i učenike, i to kroz samovrednovanje i vršnjačko vrednovanje. Ostali primjeri vrednovanja su i dalje zastupljeni na neke načine, ali su puno rjeđi u primjeri, barem na našem fakultetu. Za kraj, za svoj e-tečaj bih vjerojatno koristio sumativno vrednovanje ako sam kao nastavnikvoditelj zauzet sa drugim poslovima, jer mi ono omogućava da na početku postavim svoja pravila i da ih studenti onda prate, kao i u svojem iskustvu studiranja na FIDIT-u.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Programiranje za umjetnu inteligenciju: Online predavanje - update Dragi svi, sad gledam u Teamse i vidim da mi predavanje nije snimljeno jer sam valjda izašla iz sastanka bez da sam zaustavila snimanje, uglavnom - ako se snimka predavanja ne pojavi, ja ću ponovo snimiti to predavanje preko vikenda. Pitanja neće ući u ovaj kratki kolokvij koji imate u utorak, to su materijali za završni ispit. LP Ana M.",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Korištenje digitalnih igara, igrifikacije, virtualne i proširene stvarnosti kod e-učenja Najveća prednost učenicima bila bi motivacija, koja bi nastala rezultatom zamjenjivanja već standardnog, dosadnog načina učenja s nečim što ljudi percipiraju kao razonodu - interaktivne igrice imaju element zabave koji se može postići i kod edukacijskih igrica (primjer bi bile igrice kvizova koje ljudi redovno igraju). Natjecanje među učenicima može se replicirati u igricama i postići učenje iz tog duha nadmetanja. Izazovi su u glavnini isti za učenike i nastavnike što se tiče tehničkih ograničenja tj. uvođenja pravilnih tako da se postigne nekakav ispunjivi konsenzus za učenike tako da ne dođe do nemogućnosti pristustvovanja. Isto tako učenici ne smiju izgubiti dugo vremena pri instalaciji, inače će brzo izgubiti volju. Prednost nastavniku je povezana najviše sa motivacijom učenika, te ovisi o tome koliko je njima lako osmisliti ili iskoristiti već postojeći koncept igrice i implementirati ga u svoj plan nastave, što je zapravo najveći izazov. Razvoj vlastite igrice je dugoročan, a pronalazak postojeće koja će pasati u okvire zamišljenog programa isto izazovno. Profesori moraju održati djelomično ozbiljno okruženje jer će, ukoliko se učenici previše posvete igri, atmosfera izgubiti akademsku prirodu i postati će razonoda.",
+    "label": 0
+  },
+  {
+    "text": "Predali ste zadacu - Pathfinding agent v2 upload (pathfinding_agent.py) - 5 bodova Predali ste zadacu - Pathfinding agent v2 upload (pathfindingagent.py) - 5 bodova Mozete ju pogledati ovdje",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] Referada: Radionica NAUČI KAKO UČITI - 13.12 u 13:30, O-358 Dragi studenti i drage studentice, Pozivamo vas na radionicu NAUČI KAKO UČITI o učenju koju će za vas održati studentice i studenti psihologije i vaš kolega sa viši godine Reo Turčinović! Radionica traje 90 minuta, a na njoj ćete naučiti strategije učenja, kako poboljšati koncentraciju, povećati motivaciju i kako smanjiti odgađanje u izvršavanju obaveza. Molim da popunite obrazac 1 kako bi znali broj zainteresiranih. Radionica će se održati 13.12. U 1330 U UČIONICI O-358. PRIJAVA 1 ZA RADIONICU TRAJE DO ČETVRTKA 12.12. U 18H. naucikakouciti  Kristina Host, Koordinatorica FIDIT-a za UNIRI BRINE Links 1",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Vrednovanje kod e-učenja Lijepi pozdrav, u 2. tjednu rasprave tema je VREDNOVANJE KOD E-UČENJA. U 9. i 10. poglavlju udžbenika mogli ste pročitati o specifičnostima formativnog i sumativnog vrednovanja u e-okruženju, a iskustva o tome svi imate i kao studenti. Zamislite se sada u ULOZI NASTAVNIKA ILI VODITELJA E-TEČAJA te raspravite o tome što predstavlja najveći IZAZOV VREDNOVANJA KOD E-UČENJA. Koje od metoda vrednovanja smatrate najzahtjevnijom za provođenje za nastavniketutore i zašto? Koje bi metode koristili za svoje buduće e-tečajeve ili u hibridnojonline nastavi za učenike (za ZAVRŠNI ISPIT no i u budućem radu kao nastavnici ili voditeljiautori tečajeva)? Svoje odgovore potkrijepite citatima iz udžbenika i vlastitim primjerima. Nataša Hoić-Božić",
+    "label": 1
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Vrednovanje kod e-učenja i online testovi Lijepi pozdrav, od danas do kraja nastave u ovoj kalendarskoj godini nastavljamo s temama vezanim uz učenje i poučavanje u kontekstu e-učenja. Poglavlje VREDNOVANJE KOD E-UČENJA više je vezano uz pedagoške aspekte dok RAZVOJ ONLINE TESTOVA donosi i pojašnjenje tehnologije izrade testova, posebice raznih vrsta pitanja. Kao primjer je korišten MOODLE sustav jer ćete taj sustav koristiti i za izradu vaših e-kolegija ili tečajeva (završni ispit) koji će uključivati i online testove kao jedan od obaveznih elemenata. Kako je i svrha ovog e-kolegija ne samo da vam pruži nastavne sadržaje i aktivnosti vezane uz ishode učenja nego i da posluži kao primjer za vaše buduće e-kolegije, 9. poglavlje je pripremljeno kao MOODLE LEKCIJA, a 10. poglavlje kao MOODLE KNJIGA (uz to su uobičajeno dostupni u digitalnom (PDF) i tiskanom izdanju udžbenika). Osnovna razlika lekcije u odnosu na knjigu je u tome što je omogućeno grananje potpoglavlja i kretanje kroz sadržaje na osnovu odgovora na pitanja koja su postavljena na kraju nekih poglavlja. Riječ je o jednostavnim pitanjima te služe samo za ponavljanje i navigaciju kroz sadržaje (lekcija se ne boduje, iako je i to moguće definirati, pa se prisjetite ovoga kad budete dizajnirali vaše e-kolegije). Blok sadrži i TEST ZA SAMOPROVJERU koji se također nešto razlikuje od dosadašnjih jer, osim pitanja raznovrsnih tipova iz sva tri poglavlja o učenju i poučavanju kod e-učenja, sadrži i nekoliko vrsta Moodle pitanja kao primjere koji nisu vezani uz nastavne sadržaje (npr. računsko pitanje, formula). Podsjećam da se nastavlja i 2. tjedan e-aktivnosti rasprave u forumu, možete nastaviti raspravljati o temama vezanim uz korištenje igara kod e-učenja te također i o novim temama vezanim uz vrednovanje kod e-učenja. Nataša Hoić-Božić",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Korištenje digitalnih igara, igrifikacije, virtualne i proširene stvarnosti kod e-učenja DIGITALNE OBRAZOVNE IGRE Živimo u svijetu gdje tehnologija doživljava svakodnevni rast. Samim time, raste i broj raznih alata koji se mogu koristiti i u obrazovne svrhe. Smatram da uvođenje digitalnih obrazovnih igara može biti vrlo motivirajuće za učenike, polaznike e-tečaja, pa čak i za studente. Konkretno, u nastavku ću se držati predmeta informatike te polaznika e-tečaja, zbog toga što sam student nastavničkog smjera informatike te imam iskustva u vođenju e-tečaja. Informatika može biti vrlo izazovna za učenje, pogotovo ukoliko djeca, učenici osnovne škole moraju savladati logiku i razumijevanje programiranja i programskih kodova. Prema udžbeniku, Igra je prirodna i jedna od najvažnijih aktivnosti djece koja im pomaže razviti važne vještine za cijeli život. Igra može pomoći učenicima da posvete pozornost nastavnim sadržajima za učenje, a pri tome se zabavljaju i uživaju. Ako obratimo pozornost na gore navedene tvrdnje iz udžbenika, može se lako zaključiti kako obrazovne igre mogu pomoći u stjecanju nastavnog sadržaja, ali da i pri tome se razvijaju sposobnosti i spremnosti učenika za rješavanje problema, donošenje odluka, metakogniciju, kritičko mišljenje, kreativnost i inovativnost. Danas postoje nekoliko digitalnih alata, koje služe kao obrazovne igre za učenje programiranja te bih izdvojio tri vrlo popularne Scratch, Minecraft Education i Pictoblox. Riječ je o programima, s pomoću kojih se programiranje uči na temelju slaganja blokova i istovremenom stvaranju igrice. PREDNOSTI Navedeni programi mogu poslužiti da djeca na zabavan način nauče programiranje i razviju logičko razmišljanje. Također, smatram kako će djeca na lakši način razvijati svoje sposobnosti koje će u kasnijim godinama, moći primjenjivati na raznim zadacima i lakše će se prilagoditi savladavanju programskih jezika. Moguće je individualizirati tempo učenja, tako da će im se zadati teži ili lakši zadaci koje moraju savladati. Moje dosadašnje iskustvo u obliku vođenja sinkronog e-tečaja koji se temelji na gore navedenim alatima, pokazuje kako polaznici zaista bolje nauče gradivo, ali postoje i određene poteškoće prilikom istih. POTENCIJALNI IZAZOVI I NEDOSTATCI Kao voditelju, postoje situacije gdje je teško organizirati plan izvođenja, zbog toga što je u određenim situacijama teško prepoznati hoće li gradivo biti više ili manje zahtjevno od očekivanog te uvijek nastojim imati nekoliko izrađenih verzija plana izvođenja kako bi se trajanje moglo nesmetano izvoditi. Dodatno, treba uvijek uzeti u obzir da nisu svi polaznici na istoj informatičkoj pismenoj razini te će uvijek biti određenih situacija, u kojima će se trebati više vremena posvetiti polaznicima koji imaju poteškoće s korištenjem tehnologije. Također, kada je riječ o e-tečaju i obrazovnim igrama, potrebno je uložiti puno više truda u motiviranje polaznika (pogotovo osnovnoškolske dobi) kako bi zadržali fokus na stvaranju potrebnog sadržaja, a ne samostalno istraživati nepovezani sadržaj iili počeli koristiti druge alate na računalu.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Korištenje digitalnih igara, igrifikacije, virtualne i proširene stvarnosti kod e-učenja Smatram da bi uvođenje digitalnih obrazovnih igara i igrifikacije u nastavu bilo izuzetno motivirajuće za učenike, studente i polaznike e-tečajeva. Naime, tradicionalna nastava, koja se temelji na predavanju gradiva putem prezentacija, pisanja na ploči i slušanja učenika koji pišu bilješke, postaje veoma monotona i izaziva pad koncentracije. Smatram da je jedan od najučinkovitijih načina da se razbije ova monotonija i da se poveća motivacija i pažnja učenika jest uvođenje igara tijekom nastave. Ukoliko učenici imaju dojam da se igraju umjesto da uče, lakše i brzo usvajaju gradivo i često ni ne primijete koliko zapravo uče. Također podjelom učenika u manje timove, potiče se komunikacija između učenika i timski rad i time se potiče razvijanje socijalnih vještina. Korištenje rang-liste također može biti veliki motivator za učenike da postignu što bolje rezultate, gdje bi najbolji tim mogao osvojiti npr. dodatne bodove, pomoć prilikom sljedećeg kviza, olakšanje nekih zadataka kao npr. pitanje na kolokviju ili slično. Međutim, usprkos svih prednosti, sastavljanje obrazovanih igara koje su istovremeno zabavne i edukativne tj. pokrivaju relevantni nastavni sadržaj, zahtjeva značajan trud i vrijeme od strane nastavnika. Nastavnik treba pažljivo planirati igru kako bi iz nje učenici mogli naučiti potrebni sadržaj. Također kako bi igra bila pravedna potrebno je osigurati da svi učenici imaju jednake šanse, npr. ukoliko je ona na računalima da svi imaju pristup jednakoj tehnologiji, što nije uvijek moguće. Jedan od digitalnih alata koji se može koristi je Kahoot!. U ovom alatu nastavnici mogu kreirati kvizove koji se mogu koristit za ponavljanje gradiva. Nastavnici mogu podijeliti učenike u grupe i potaknuti ih da surađuju kako bi postigli što bolji rezultat, gdje bi grupa sa najviše bodova dobila npr. dodatni bod kao nagradu. Smatram da bi se time povećala motivacija učenika da dođu spremniji na nastavu i da više pažnje posvete nastavi te bi kvizom sama nastava više bila zabavnija. Također za samostalno učenje jedan primjer aplikacije je Duolingo. Ova aplikacija sadržava kratke kvizove i zadatke koji omogućuju učenicima da uče jezik na zabavan i interaktivni način. Kratki kvizovi uključuju zadatke poput nadopunjavanja rečenica, odabira točnog odgovara ili provjere izgovora, koji s vremenom postaju sve teži i teži. Također, ako korisnik na dnevnoj razini riješi barem jedan kviz, može povećati svoj streak što ga motivira da nastavi učiti kao bi ga zadržao. Također na tjednoj razini postoje i rang liste koje dodatno podižu korisnicima razinu motivacije jer korisnici žele biti što viši na ljestvice, gdje prva tri mjesta osvajaju nagrade. Također, za svoj tečaja planiram uključiti neku od igru koje su već implementirane u sustavu Moodle. Smatram da bi njome studenti na zabavan način mogli ponoviti gradivo te ukoliko dostignu zadovoljavajući rezultat mogu osvojiti i dodatne bodove koji bi imali utjecaj na konačnu ocjenu. Smatram da bi se time povećala motivacija za učenjem i potaknula studente da aktivno sudjeluju u nastavi.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Korištenje digitalnih igara, igrifikacije, virtualne i proširene stvarnosti kod e-učenja Smatram da je uvođenje obrazovnih igara jako dobro za učenje i rješavanja problema jer takav način nastave predstavlja potencijalnu suhoparnu teorije i zadatke na zabavan način koji mislim da više paše učenicima, pogotovo djeci. Npr., iz osobnog primjera se sjećam kao dijete da sam engleski jezik jako lagano savladao zahvaljujući video igrama koje sam tada igrao jer sam iste igre prelazio više puta i dijalozi u njima su mi ostali u sjećanju te sam riječi povezivao sa onima koje sam tada učio u školi na nastavi engleskoga jezika. Također, na preddiplomskom studiju smo iz par kolegija imali kvizove koji su se odvijali preko Kahoot! platforme i na taj način smo kao grupe studenata se natjecali jedni protiv drugih da ostvarimo što veći broj bodova i još uvijek imam sjećanja na odgovore iz nekih pitanja jer su mi ta predavanja bila najzabavnija. Sve ovo bi nabrojao kao prednosti obrazovnih igara i igrifikacije, međutim naravno ništa uvijek ne dolazi samo tako. Kao izazove bih naveo da igre trebaju imati nekakvog smisla, kvizove treba osmisliti na takav način da odgovori nisu drastično različiti jedan od drugoga, nego da budu slični tako da se smanji pokušaj pogađanja odgovora. Također, samo sučelje obrazovnih igara treba biti relativno jednostavno i lagano za snalaženje, te time i zanimljivo, što znamo da sigurno nije lagano za postići. Isto tako, smatram da se ne može baš svako gradivo pretvoriti u igru, npr. kompleksnija gradiva koja nisu teorija i za koje treba više vremena za računanje i rješavanje problema su manje podložna pretvorbi u obrazovnu igru jer obrazovne igre imaju vremenska ograničenja di se očekuje od studenataučenika da odgovore na pitanju u roku koji je postavljen u sekundama ili eventualno u par minuta. Za kraj, naveo bih da se obrazovne igre nalaze i izvan naših učionica i sustava za e-učenje, kao bolje primjere naveo bih kvizove poput Tko želi biti milijunaš i Potjera gdje sudionici za novčanu nagradu testiraju svoje znanje. To je sigurno jedan od najboljih primjera motivacije da ljudi generalno nauče pojmove i gradiva iz različitih tema i područja od kojih kasnije mogu pobrati nagradu.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Korištenje digitalnih igara, igrifikacije, virtualne i proširene stvarnosti kod e-učenja  UVOĐENJE DIGITALNIH OBRAZOVNIH IGARA ILI IGRIFIKACIJE U NASTAVU Smatram da bi uvođenje digitalnih obrazovnih igara i elemenata igrifikacije u nastavu bilo izuzetno motivirajuće za učenike, studente i polaznike tečaja, jer ovaj pristup uspješno povezuje obrazovni sadržaj s prirodnom aktivnošću djece i mladih  igrom. Igra, kao aktivnost koja im je već poznata i koja im donosi radost, omogućuju učenicima ne samo stjecanje novih znanja, već i njihovu primjenu u stvarnim situacijama, čime se znatno povećava njihova motivacija. Jedna od najvećih prednosti uvođenja obrazovnih igara i igrifikacije svakako je povećanje motivacije i angažmosti učenika. Ove metode povezuju zabavu i učenje, čime potiču učenike na aktivno sudjelovanje. Obrazovne igre se razlikuju od klasičnih igara jer nisu samo zabavne, već imaju jasno definirane obrazovne ciljeve, usklađene s ishodima učenja, te se temelje na relevantnim, zanimljivim i smislenim cjelinama. Igrifikacija nastavni proces čini dinamičnijim i privlačnijim dodajući elemente igre poput narativa, nagrada ili natjecanja, što povećava interaktivnost i uključenost učenika. Međutim, najveći izazov u primjeni učenja s pomoću igara leži u pažljivom odabiru i pripremi sadržaja. Nastavnici moraju osigurati da igre i igrifikacija ne skreću pozornost s obrazovnih ciljeva, već da ih podupiru i pomažu u postizanju željenih ishoda. Dodatni izazovi, poput dostupnosti tehnologije i prilagodbe sadržaja uzrastu učenika, također zahtijevaju temeljito planiranje i resurse. Stoga, od presudne je važnosti uravnotežiti elemente igre i obrazovanja kako bi nastavni proces bio i edukativan i motivirajuć. Kao buduća nastavnica, vjerujem da bi korištenje digitalnih obrazovnih igara i igrifikacije moglo značajno unaprijediti nastavu. Međutim, važno je da ove metode budu usklađene s odgojno-obrazovnim ishodima i da pružaju podršku učenju, a ne da igra preuzme glavnu ulogu. Smatram da kroz pažljivo balansiranje zabave i obrazovanja, nastavnici mogu stvoriti motivirajuće, angažirajuće i učinkovito obrazovno okruženje.",
+    "label": 0
+  },
+  {
+    "text": "[Merlin] E-učenje za obrazovanje i poslovanje: Re: Korištenje digitalnih igara, igrifikacije, virtualne i proširene stvarnosti kod e-učenja MOGUĆNOSTI DIGITALNIH IGARA, IGRIFIKACIJE TE VIRTUALNE I PROŠIRENE STVARNOSTI Smatram da uvođenje digitalnih obrazovnih igara i igrifikacije u nastavu može biti vrlo motivirajuće za učenike, studente i polaznike. Ključna prednost ovakvog pristupa je povećanje angažmana i interesa za učenje jer igre donose elemente zabave i interaktivnosti. Učenje s pomoću igara omogućava stjecanje znanja kroz praktične aktivnosti, što može olakšati usvajanje gradiva. Obradu novog sadržaja se može započeti obrazovnim, digitalnim, igrama, kroz zanimljivu i relevantnu priču se može uvesti novi sadržaj. S druge strane igrifikacija je pogodnija za ponavljanje gradiva. Primjerice obradu određenog sadržaja možemo završiti kvizom poput Kahoot-a, Quizziza i sl. Ovim igrama učenici su motivirani nagradom, dobivaju povratnu informaciju, a ishodi učenja su jasno postavljeni. Svakako odabir igre i igrifikacije je potrebno primijeniti uzrastu. Smatram kako bi se i kolege složile, da je u radu s učenicima dobro koristiti različite metode i pristupe radu kako bi se razbila monotonija tradicionalnog pristupa poučavanju. Smatram kako je ovaj pristup, GBL, važniji u radu s mlađim uzrastima kako bi se održavao interes i povećala interaktivnost u procesu učenja. Kod starijih učenika i studenata, obrazovne igre i igrifikacija može biti korisna za razvijanje kritičkog razmišljanja, timskog rada ili rješavanja problema kroz simulacije i interaktivne zadatke. Iz perspektive nastavnika, najveći izazov kod implementacije ovog pristupa je pronalaženje dobro dizajniranih igara koje su u skladu s ishodima učenja, kao i osmišljavanje metodologije koja omogućuje balans između igre i obrazovnog sadržaja. U našem udžbeniku, Uvod u e-učenje obrazovni izazovi digitalnog doba 1, je lijepo sročeno, potrebno je pažljivo planirati kako će se igre koristiti prije, za vrijeme i nakon lekcije, kako bi se izbjeglo gubljenje fokusa s obrazovnih ciljeva.  S druge strane, prednosti virtualne i proširene stvarnosti, poput potpune uronjenosti i proširivanja stvarnog okruženja digitalnim elementima, također nude ogromne mogućnosti za e-učenje. Virtualna stvarnost može omogućiti iskustva koja bi inače bila nedostupna, dok proširena stvarnost može dodatno obogatiti tradicionalne lekcije vizualnim i interaktivnim sadržajima. Međutim, nastavnik mora promišlja o mogućnosti učenika, kao i ustanove s obzirom na njene resurse. Također, potrebno je ograničiti vrijeme koje posvećujemo ovim metodama. Iako je nastavu i način poučavanja potrebno modernizirati, moramo paziti da ne zapostavimo temelje kvalitetnog obrazovanja, poput kritičkog razmišljanja, analitičkog pristupa i temeljitog razumijevanja sadržaja. Stoga je ključno pronaći ravnotežu između tradicionalnih i modernih metoda poučavanja. Nastavnik treba pažljivo planirati i strukturirati nastavu, kombinirajući tehnologiju s drugim pedagoškim pristupima, poput diskusija, projekata i praktičnih vježbi. Na taj način možemo osigurati da su svi učenici uključeni i da različiti stilovi učenja budu zadovoljeni. Links 1",
+    "label": 0
+  }
+]
